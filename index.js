@@ -1,5 +1,1 @@
 const token = '6602310781:AAFa6J9lV_3hKS2NAvCIE9aBsKm9RMe7CjI'
-
-
-
-
