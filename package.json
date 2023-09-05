@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^3.0.1"
+  }
 }
