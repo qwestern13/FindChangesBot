@@ -18,7 +18,7 @@ const bot = new TelegramApi(token, {polling: true});
 
 request(opt, function (err, res, body) {
     if (err) throw err;
-    fs.writeFile('data.txt', iconv.decode(body, 'utf-8'), (err) => {
+    fs.writeFile('data/data.txt', iconv.decode(body, 'utf-8'), (err) => {
         if (err) throw err;
         console.log('The file has been saved!');
       }); 
