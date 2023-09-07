@@ -32,7 +32,7 @@ function textIsEqual() {
         fs.readFile('data/data.txt', (err, data2) => {
          if (err) throw err;
          if (data1.equals(data2)) {
-            bot.sendMessage(chatId, 'Без изменений');
+            bot.sendMessage(chatId, 'ОМСК без изменений');
          } else {
             fs.writeFile('etalon.txt', data2, (err) => {
                 if (err) throw err;
