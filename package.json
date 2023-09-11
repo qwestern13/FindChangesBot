@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development nodemon index.js",
-    "start": "node index.js"
+    "devomsk": "cross-env NODE_ENV=development nodemon omsk.js",
+    "startomsk": "node omsk.js",
+    "devhk": "cross-env NODE_ENV=development nodemon rhak.js",
+    "starthk": "node rhak.js",
+    "devya": "cross-env NODE_ENV=development nodemon yanao.js",
+    "startya": "node yanao.js"
   },
   "keywords": [],
   "author": "",

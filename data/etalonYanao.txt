@@ -1,0 +1,267 @@
+si.ffoms.ru</a>
+                <b>, а также на сайте Министерства здравоохранения Российской Федерации</b>
+                <a href="https:/,si.rosminzdrav.ru/#!,ews">https:/,si.rosminzdrav.ru/#!,ews</a>            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12">
+
+
+            <div id="w1" class="grid-view"><div class="summary">Показаны записи <b>1-100</b> из <b>1,103</b>.</div>
+<table class="table table-striped table-bordered"><colgroup><col style="width:25%;">
+<col style="width:5%;">
+<col style="width:15%;">
+<col style="width:5%;">
+<col style="width:5%;">
+<col style="width:5%;"></colgroup>
+<thead>
+<tr><th><a href="/document/document/index?sort=title" data-sort="title">Заголовок</a></th><th><a href="/document/document/index?sort=type_id" data-sort="type_id">Тип</a></th><th>Теги</th><th><a href="/document/document/index?sort=accepted_org_id" data-sort="accepted_org_id">Принявший орган</a></th><th><a href="/document/document/index?sort=date" data-sort="date">Дата принятия</a></th><th><a class="desc" href="/document/document/index?sort=date_public" data-sort="date_public">Дата публикации</a></th></tr>
+</thead>
+<tbody>
+<tr data-key="1459"><td><a href="/document/document/view/1459">Решение комиссии по разработке территориальной программы ОМС ЯНАО от 04.09.2023 № 11</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.09.2023</td><td>06.09.2023</td></tr>
+<tr data-key="1458"><td><a href="/document/document/view/1458">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 04.09.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.09.2023</td><td>06.09.2023</td></tr>
+<tr data-key="1457"><td><a href="/document/document/view/1457">План мероприятий от 05.09.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>05.09.2023</td><td>05.09.2023</td></tr>
+<tr data-key="1456"><td><a href="/document/document/view/1456">Решение заседания Координационного совета №7</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>11.08.2023</td><td>11.08.2023</td></tr>
+<tr data-key="1454"><td><a href="/document/document/view/1454">Решение комиссии по разработке территориальной программы ОМС ЯНАО от 04.08.2023 № 10</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.08.2023</td><td>04.08.2023</td></tr>
+<tr data-key="1453"><td><a href="/document/document/view/1453">Об утверждении регламента реализации полномочий администратора доходов бюджета Территориал...</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.08.2023</td><td>03.08.2023</td></tr>
+<tr data-key="1452"><td><a href="/document/document/view/1452">Приказ от 03.08.2023 №376</a> </td><td>Приказ</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Приказ">Приказ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.08.2023</td><td>03.08.2023</td></tr>
+<tr data-key="1451"><td><a href="/document/document/view/1451">Протокол Общественного обсуждения от 03.08.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.08.2023</td><td>03.08.2023</td></tr>
+<tr data-key="1455"><td><a href="/document/document/view/1455">Решение заседания Координационного совета от 31 июля 2023 года №7</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.07.2023</td><td>31.07.2023</td></tr>
+<tr data-key="1450"><td><a href="/document/document/view/1450">RQ022 Перечень автоматизированных проверок ФЛК v 23.4</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.07.2023</td><td>31.07.2023</td></tr>
+<tr data-key="1449"><td><a href="/document/document/view/1449">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.07.2023</td><td>31.07.2023</td></tr>
+<tr data-key="1448"><td><a href="/document/document/view/1448">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 27.07.2023 № 9</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.07.2023</td><td>28.07.2023</td></tr>
+<tr data-key="1447"><td><a href="/document/document/view/1447">проект Приказа </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>26.07.2023</td><td>26.07.2023</td></tr>
+<tr data-key="1446"><td><a href="/document/document/view/1446">Пояснительная записка к проекту приказа</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>26.07.2023</td><td>26.07.2023</td></tr>
+<tr data-key="1445"><td><a href="/document/document/view/1445">RS012 Справочник отдельных диагностических услуг v. 23.5</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>18.07.2023</td></tr>
+<tr data-key="1443"><td><a href="/document/document/view/1443">RS014 Справочник структурных подразделений ГИС ОМС v. 23.05</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.01.2022</td><td>13.07.2023</td></tr>
+<tr data-key="1444"><td><a href="/document/document/view/1444">Решение КС № 6 от 30.06.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.06.2023</td><td>11.07.2023</td></tr>
+<tr data-key="1442"><td><a href="/document/document/view/1442">RS012 Справочник отдельных диагностических услуг v. 23.4</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>11.07.2023</td></tr>
+<tr data-key="1440"><td><a href="/document/document/view/1440">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.06.2023</td><td>30.06.2023</td></tr>
+<tr data-key="1439"><td><a href="/document/document/view/1439">RQ022 Перечень автоматизированных проверок ФЛК v 23.3</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.06.2023</td><td>30.06.2023</td></tr>
+<tr data-key="1438"><td><a href="/document/document/view/1438">План мероприятий от 29.06.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>29.06.2023</td><td>29.06.2023</td></tr>
+<tr data-key="1437"><td><a href="/document/document/view/1437">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 22.06.2023 № 8</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.06.2023</td><td>26.06.2023</td></tr>
+<tr data-key="1436"><td><a href="/document/document/view/1436">RS006 (Справочник соответствия цели посещения и результата) v.23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>15.06.2023</td></tr>
+<tr data-key="1434"><td><a href="/document/document/view/1434">Решение Координационного совета 5 от 31.05.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.05.2023</td><td>07.06.2023</td></tr>
+<tr data-key="1435"><td><a href="/document/document/view/1435">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 02.06.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>02.06.2023</td><td>06.06.2023</td></tr>
+<tr data-key="1433"><td><a href="/document/document/view/1433">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 02.06.2023 № 7</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>02.06.2023</td><td>06.06.2023</td></tr>
+<tr data-key="1432"><td><a href="/document/document/view/1432">Приказ от 30.05.2023 №254</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Приказ">Приказ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.05.2023</td><td>30.05.2023</td></tr>
+<tr data-key="1431"><td><a href="/document/document/view/1431">ПРОТОКОЛ Общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.05.2023</td><td>30.05.2023</td></tr>
+<tr data-key="1430"><td><a href="/document/document/view/1430">Презентации СС _Репродуктивное здоровье населения ЯНАО</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>24.05.2023</td><td>24.05.2023</td></tr>
+<tr data-key="1429"><td><a href="/document/document/view/1429">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>23.05.2023</td></tr>
+<tr data-key="1428"><td><a href="/document/document/view/1428">ПРОЕКТ приказа №  от ..2023.</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.05.2023</td><td>22.05.2023</td></tr>
+<tr data-key="1427"><td><a href="/document/document/view/1427">Пояснительная записка к проекту приказа</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.05.2023</td><td>22.05.2023</td></tr>
+<tr data-key="1426"><td><a href="/document/document/view/1426">План проверок 2023 Заполярье</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.05.2023</td><td>17.05.2023</td></tr>
+<tr data-key="1425"><td><a href="/document/document/view/1425">План проверок 2023 МСК НУ </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.05.2023</td><td>17.05.2023</td></tr>
+<tr data-key="1424"><td><a href="/document/document/view/1424">План проверок 2023г. СОГАЗ</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.05.2023</td><td>17.05.2023</td></tr>
+<tr data-key="1423"><td><a href="/document/document/view/1423">Решение Координационного совета 4 от 28.04.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.04.2023</td><td>10.05.2023</td></tr>
+<tr data-key="1421"><td><a href="/document/document/view/1421">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 04.05.2023 № 6</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.05.2023</td><td>05.05.2023</td></tr>
+<tr data-key="1422"><td><a href="/document/document/view/1422">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.04.2023</td><td>30.04.2023</td></tr>
+<tr data-key="1419"><td><a href="/document/document/view/1419">Решение Координационного совета от 31.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.03.2023</td><td>11.04.2023</td></tr>
+<tr data-key="1418"><td><a href="/document/document/view/1418">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 07.04.2023 № 5</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.04.2023</td><td>10.04.2023</td></tr>
+<tr data-key="1417"><td><a href="/document/document/view/1417">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 07.04.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.04.2023</td><td>10.04.2023</td></tr>
+<tr data-key="1416"><td><a href="/document/document/view/1416">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.03.2023</td><td>31.03.2023</td></tr>
+<tr data-key="1415"><td><a href="/document/document/view/1415">RS014 Справочник структурных подразделений ГИС ОМС v. 23.04</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>31.03.2023</td></tr>
+<tr data-key="1414"><td><a href="/document/document/view/1414">RQ022 Перечень автоматизированных проверок ФЛК v 23.2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.03.2023</td><td>31.03.2023</td></tr>
+<tr data-key="1413"><td><a href="/document/document/view/1413">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.03.2023</td><td>27.03.2023</td></tr>
+<tr data-key="1412"><td><a href="/document/document/view/1412">План мероприятий от 21.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>21.03.2023</td><td>22.03.2023</td></tr>
+<tr data-key="1420"><td><a href="/document/document/view/1420">Информация, согласно приложению к Постановлению Правительства Ямало-Ненецкого автономного...</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>16.03.2023</td><td>16.03.2023</td></tr>
+<tr data-key="1410"><td><a href="/document/document/view/1410">Материалы Комиссии  по разработке территориальной программы ОМС ЯНАО от 14.03.2023 № 4</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>14.03.2023</td><td>14.03.2023</td></tr>
+<tr data-key="1409"><td><a href="/document/document/view/1409">Решение Координационного совета от 28.02.2023 № 2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.02.2023</td><td>14.03.2023</td></tr>
+<tr data-key="1408"><td><a href="/document/document/view/1408">Приказ ДЗ и ТФОМС от 23.01.2023 №41-о-а_18 по ИСЗЛ</a> </td><td>Приказ</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Диспансеризация">Диспансеризация</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Регламент">Регламент</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=диспансернное наблюдение">диспансернное наблюдение</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=ИСЗЛ">ИСЗЛ</a></td><td>Совместный</td><td>23.01.2023</td><td>14.03.2023</td></tr>
+<tr data-key="1406"><td><a href="/document/document/view/1406">RS012 Справочник отдельных диагностических услуг v. 23.3</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>13.03.2023</td></tr>
+<tr data-key="1404"><td><a href="/document/document/view/1404">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 03.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.03.2023</td><td>07.03.2023</td></tr>
+<tr data-key="1402"><td><a href="/document/document/view/1402">Приказ №59 от 07.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.03.2023</td><td>07.03.2023</td></tr>
+<tr data-key="1401"><td><a href="/document/document/view/1401">ПРОТОКОЛ Общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.03.2023</td><td>07.03.2023</td></tr>
+<tr data-key="1403"><td><a href="/document/document/view/1403">Решение Комиссии по разработке территориальной программы ОМС ЯНАО от 03.03.2023 № 3</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Решение комиссии">Решение комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.03.2023</td><td>06.03.2023</td></tr>
+<tr data-key="1405"><td><a href="/document/document/view/1405">RS012 Справочник отдельных диагностических услуг v. 23.2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.03.2023</td><td>01.03.2023</td></tr>
+<tr data-key="1400"><td><a href="/document/document/view/1400">RQ022 Перечень автоматизированных проверок ФЛК v 23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.02.2023</td><td>28.02.2023</td></tr>
+<tr data-key="1399"><td><a href="/document/document/view/1399">Проект приказа о внесении изменений в Порядок определения нормативных затрат на обеспечени...</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.02.2023</td><td>27.02.2023</td></tr>
+<tr data-key="1398"><td><a href="/document/document/view/1398">Порядок информационного взаимодействия на 2023 год</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Порядок информационного взаимодействия">Порядок информационного взаимодействия</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.02.2023</td><td>20.02.2023</td></tr>
+<tr data-key="1397"><td><a href="/document/document/view/1397">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>20.02.2023</td></tr>
+<tr data-key="1394"><td><a href="/document/document/view/1394">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>13.02.2023</td></tr>
+<tr data-key="1393"><td><a href="/document/document/view/1393">Регламент предоставления реестров 2023 г</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Регламент">Регламент</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Приказ">Приказ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.02.2023</td><td>09.02.2023</td></tr>
+<tr data-key="1392"><td><a href="/document/document/view/1392">решение Координационного совета 1 от 30.01.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.01.2023</td><td>09.02.2023</td></tr>
+<tr data-key="1391"><td><a href="/document/document/view/1391">RS005 Справочник соответствия кода услуг специальности для посещений в АПП v. 23.02</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>09.02.2023</td></tr>
+<tr data-key="1390"><td><a href="/document/document/view/1390">RS005 Справочник соответствия кода услуг специальности для посещений в АПП v. 23.01</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>06.02.2023</td></tr>
+<tr data-key="1389"><td><a href="/document/document/view/1389">Регламент взаимодействия между ТФОМС ЯНАО и СМО с 10.01.2023-64242931ddb3e</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Регламент взаимодействи ТФОМС ЯНАО и СМО">Регламент взаимодействи ТФОМС ЯНАО и СМО</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>10.01.2023</td><td>03.02.2023</td></tr>
+<tr data-key="1388"><td><a href="/document/document/view/1388">RS014 Справочник структурных подразделений ГИС ОМС v. 23.03</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>02.02.2023</td></tr>
+<tr data-key="1396"><td><a href="/document/document/view/1396">Приказ от 01.02.2023 №22</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.02.2023</td><td>01.02.2023</td></tr>
+<tr data-key="1395"><td><a href="/document/document/view/1395">ПРОТОКОЛ Общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.02.2023</td><td>01.02.2023</td></tr>
+<tr data-key="1387"><td><a href="/document/document/view/1387">RS014 Справочник структурных подразделений ГИС ОМС v. 23.02</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>31.01.2023</td></tr>
+<tr data-key="1386"><td><a href="/document/document/view/1386">RS007 Cправочник соответствия группы ВМП и профиля на 2023 v23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>31.01.2023</td></tr>
+<tr data-key="1385"><td><a href="/document/document/view/1385">RS012 Справочник отдельных диагностических услуг v. 23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>30.01.2023</td></tr>
+<tr data-key="1384"><td><a href="/document/document/view/1384">Решение Комиссии по разработке территориальной программы ОМС ЯНАО от 27.01.2023 № 2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Решение комиссии">Решение комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.01.2023</td><td>30.01.2023</td></tr>
+<tr data-key="1383"><td><a href="/document/document/view/1383">Тарифное соглашение в системе ОМС ЯНАО от 27.01.2023 </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.01.2023</td><td>30.01.2023</td></tr>
+<tr data-key="1382"><td><a href="/document/document/view/1382">Проект приказа о внесении изменений в мормативные затраты</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>24.01.2023</td><td>24.01.2023</td></tr>
+<tr data-key="1381"><td><a href="/document/document/view/1381">Материалы Комиссии от 19.01.2023 № 1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>19.01.2023</td><td>20.01.2023</td></tr>
+<tr data-key="1380"><td><a href="/document/document/view/1380">RS014 Справочник структурных подразделений ГИС ОМС v. 23.01</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.12.2021</td><td>20.01.2023</td></tr>
+<tr data-key="1379"><td><a href="/document/document/view/1379">RQ022 Перечень автоматизированных проверок ФЛК v 23.0</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>20.01.2023</td><td>20.01.2023</td></tr>
+<tr data-key="1378"><td><a href="/document/document/view/1378">Расшифровщики КСГ 2023 год</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=КСГ">КСГ</a></td><td>Федеральный фонд обязательного медицинского страхования</td><td>01.01.2023</td><td>18.01.2023</td></tr>
+<tr data-key="1377"><td><a href="/document/document/view/1377">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>18.01.2023</td></tr>
+<tr data-key="1441"><td><a href="/document/document/view/1441">Основные положения учетной политики на 2023 год</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.12.2022</td><td>29.12.2022</td></tr>
+<tr data-key="1376"><td><a href="/document/document/view/1376">RS008 (Совместимость вида МП, профиля и специальности) v.22.04</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>28.12.2022</td></tr>
+<tr data-key="1375"><td><a href="/document/document/view/1375">Решение КС № 12 от 21.12.2022</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>21.12.2022</td><td>26.12.2022</td></tr>
+<tr data-key="1374"><td><a href="/document/document/view/1374">Протокол общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.12.2022</td><td>23.12.2022</td></tr>
+<tr data-key="1373"><td><a href="/document/document/view/1373">Приказ от 22.12.2022 №425</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.12.2022</td><td>23.12.2022</td></tr>
+<tr data-key="1371"><td><a href="/document/document/view/1371">Материалы Комиссии № 17 от 19.12.2022 г.</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>19.12.2022</td><td>20.12.2022</td></tr>
+<tr data-key="1370"><td><a href="/document/document/view/1370">Решение Координационного совета №11 от 30.11.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.11.2022</td><td>08.12.2022</td></tr>
+<tr data-key="1369"><td><a href="/document/document/view/1369">Материалы Комиссии №16 от 30.11.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.11.2022</td><td>01.12.2022</td></tr>
+<tr data-key="1368"><td><a href="/document/document/view/1368">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>24.11.2022</td><td>25.11.2022</td></tr>
+<tr data-key="1367"><td><a href="/document/document/view/1367">ТАРИФНОЕ СОГЛАШЕНИЕ 2022 в действ.ред. с изменениями  от 17.11.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.11.2022</td><td>18.11.2022</td></tr>
+<tr data-key="1366"><td><a href="/document/document/view/1366">Решение комиссии по разработке ТП ОМС ЯНАО №15 от 17_11_2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.11.2022</td><td>18.11.2022</td></tr>
+<tr data-key="1364"><td><a href="/document/document/view/1364">Материалы комиссии от 31.10.2022 № 14</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.10.2022</td><td>02.11.2022</td></tr>
+<tr data-key="1363"><td><a href="/document/document/view/1363">Решение Координационного совета от 17.10.2022 № 10</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.10.2022</td><td>26.10.2022</td></tr>
+<tr data-key="1362"><td><a href="/document/document/view/1362">RQ022 Перечень автоматизированных проверок ФЛК v 22.9</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>25.10.2022</td><td>25.10.2022</td></tr>
+<tr data-key="1360"><td><a href="/document/document/view/1360">Решение Координационного совета 9 от 30.09.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.09.2022</td><td>08.10.2022</td></tr>
+<tr data-key="1358"><td><a href="/document/document/view/1358">RS010 (МКБ с запрещенными диагнозами, в т.ч. скорая ) v.21.6 </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>04.10.2022</td></tr>
+<tr data-key="1359"><td><a href="/document/document/view/1359">Решение комиссии по разработке ТП ОМС ЯНАО №13 от 30_09_2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.09.2022</td><td>04.10.2022</td></tr>
+<tr data-key="1357"><td><a href="/document/document/view/1357">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.09.2022</td><td>01.10.2022</td></tr>
+<tr data-key="1365"><td><a href="/document/document/view/1365">ТАРИФНОЕ СОГЛАШЕНИЕ 2022 в действ.ред. с изменениями  от 30.09.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.09.2022</td><td>30.09.2022</td></tr>
+<tr data-key="1353"><td><a href="/document/document/view/1353">План мероприятий от 27.09.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.09.2022</td><td>28.09.2022</td></tr>
+</tbody></table>
+<ul class="pagination"><li class="prev disabled"><span>&laquo;</span></li>
+<li class="active"><a href="/document/document/index?page=1&amp;per-page=100" data-page="0">1</a></li>
+<li><a href="/document/document/index?page=2&amp;per-page=100" data-page="1">2</a></li>
+<li><a href="/document/document/index?page=3&amp;per-page=100" data-page="2">3</a></li>
+<li><a href="/document/document/index?page=4&amp;per-page=100" data-page="3">4</a></li>
+<li><a href="/document/document/index?page=5&amp;per-page=100" data-page="4">5</a></li>
+<li><a href="/document/document/index?page=6&amp;per-page=100" data-page="5">6</a></li>
+<li><a href="/document/document/index?page=7&amp;per-page=100" data-page="6">7</a></li>
+<li><a href="/document/document/index?page=8&amp;per-page=100" data-page="7">8</a></li>
+<li><a href="/document/document/index?page=9&amp;per-page=100" data-page="8">9</a></li>
+<li><a href="/document/document/index?page=10&amp;per-page=100" data-page="9">10</a></li>
+<li class="next"><a href="/document/document/index?page=2&amp;per-page=100" data-page="1">&raquo;</a></li></ul></div>
+        </div>
+    </div>
+</div></div>
+</div>
+<footer id="footer">
+    <div class="container">
+        <div id="scrollup"><img alt="Прокрутить вверх" src="/images/toplink.png"></div>
+<div class="row">
+    <article class="col-md-4 text-center">
+        <h3 class="title">Контакты</h3>
+
+        <p>
+            <b>Адрес:</b> ЯНАО, г.Салехард, ул. Зои Космодемьянской, д. 59<br>
+            <b>Телефон:</b> +7 (34922) 9-90-09<br>
+            <b>Факс:</b> +7 (34922) 9-90-09 доб. 0
+        </p>
+
+        <div class="link">
+            Сайт: <a href="http://webfoms.ru">http://webfoms.ru</a><br>
+            Email: <a href="mailto:foms@webfoms.ru">foms@webfoms.ru</a>
+        </div>
+
+    </article>
+
+    <article class="col-md-4 text-center">
+        <div style="margin-bottom: 15px;">
+            <a href="/">На главную</a> | <a href="/questionanswer/questionanswer/create">Написать</a> | <a href="/site/contacts">Контакты</a></br>
+        </div>
+
+        <img src="/images/qr-code.gif" alt="">        <!--<a href="#top" class="top up">вверх</a>-->
+      <!--          <p>Данные по использованию ресурсов:</p>
+
+        <p></p>
+
+        <p></p>-->
+    </article>
+
+    <article class="col-md-4 text-center">
+        <p>Официальный сайт Территориального фонда обязательного медицинского страхования Ямало-Ненецкого автономного
+            округа</p>
+        <p>
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=24148483&amp;from=informer"
+   target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/24148483/3_0_56ACECFF_368CCCFF_0_pageviews"
+                                       style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:24148483,lang:'ru'});return false}catch(e){}" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter24148483 = new Ya.Metrika({
+                    id:24148483,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/24148483" style="position:absolute; left:-9999px;" alt="" /></div><,oscript>
+<!-- /Yandex.Metrika counter --> </p>
+
+
+    </article>
+
+</div>
+
+
+
+
+
+
+    </div>
+</footer>
+
+<!--[if lte IE 7]><script src="http://phpbbex.com/oldies/oldies.js" charset="utf-8"></script><![endif]-->
+<script src="/assets/c648703f/jquery.js"></script>
+<script src="/assets/9d2e6072/yii.js"></script>
+<script src="/assets/9d2e6072/yii.validation.js"></script>
+<script src="/assets/94451c7f/js/bootstrap-datepicker.min.js"></script>
+<script src="/assets/94451c7f/js/datepicker-kv.min.js"></script>
+<script src="/assets/94451c7f/js/locales/bootstrap-datepicker.ru.min.js"></script>
+<script src="/assets/7f4ffc8b/js/kv-widgets.min.js"></script>
+<script src="/assets/8bd686d2/js/select2.full.min.js"></script>
+<script src="/assets/8bd686d2/js/i18n/ru.js"></script>
+<script src="/assets/7cbee57a/js/select2-krajee.min.js"></script>
+<script src="/assets/9d2e6072/yii.activeForm.js"></script>
+<script src="/assets/9d2e6072/yii.gridView.js"></script>
+<script src="/assets/b562ff5c/js/bootstrap.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/scroll.js"></script>
+<script src="/js/script.js"></script>
+<script src="/js/statement.js"></script>
+<script src="/assets/9a11d8bf/pace.min.js"></script>
+<script src="/assets/3ab971f9/js/dropdown-x.min.js"></script>
+<script>jQuery(function ($) {
+jQuery.fn.kvDatepicker.dates={};
+jQuery&&jQuery.pjax&&(jQuery.pjax.defaults.maxCacheLength=0);
+if (jQuery('#documentsearch-date').data('kvDatepicker')) { jQuery('#documentsearch-date').kvDatepicker('destroy'); }
+jQuery('#documentsearch-date-kvdate').kvDatepicker(kvDatepicker_de751a29);
+
+initDPRemove('documentsearch-date');
+initDPAddon('documentsearch-date');
+if (jQuery('#documentsearch-date_public').data('kvDatepicker')) { jQuery('#documentsearch-date_public').kvDatepicker('destroy'); }
+jQuery('#documentsearch-date_public-kvdate').kvDatepicker(kvDatepicker_de751a29);
+
+initDPRemove('documentsearch-date_public');
+initDPAddon('documentsearch-date_public');
+if (jQuery('#documentsearch-tagvalues').data('select2')) { jQuery('#documentsearch-tagvalues').select2('destroy'); }
+jQuery.when(jQuery('#documentsearch-tagvalues').select2(select2_62afa624)).done(initS2Loading('documentsearch-tagvalues','s2options_c4acac00'));
+
+jQuery('#w0').yiiActiveForm([{"id":"documentsearch-type_id","name":"type_id","container":".field-documentsearch-type_id","input":"#documentsearch-type_id","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^[+-]?\d+$/,"message":"Значение «Тип» должно быть целым числом.","skipOnEmpty":1});}},{"id":"documentsearch-range_id","name":"range_id","container":".field-documentsearch-range_id","input":"#documentsearch-range_id","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^[+-]?\d+$/,"message":"Значение «Уровень» должно быть целым числом.","skipOnEmpty":1});}},{"id":"documentsearch-accepted_org_id","name":"accepted_org_id","container":".field-documentsearch-accepted_org_id","input":"#documentsearch-accepted_org_id","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^[+-]?\d+$/,"message":"Значение «Принявший орган» должно быть целым числом.","skipOnEmpty":1});}}], []);
+if (jQuery('#documentsearch-tagvalues').data('select2')) { jQuery('#documentsearch-tagvalues').select2('destroy'); }
+jQuery.when(jQuery('#documentsearch-tagvalues').select2(select2_47d1075f)).done(initS2Loading('documentsearch-tagvalues','s2options_c4acac00'));
+
+jQuery('#w1').yiiGridView({"filterUrl":"\/document\/document\/","filterSelector":"#w1-filters input, #w1-filters select","filterOnFocusOut":true});
+});</script></body>
+
+</html>

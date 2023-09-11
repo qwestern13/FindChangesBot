@@ -1,0 +1,897 @@
+ews/pervyy-razdel/">Новости</a></li>
+                        <li><a href="/subscribe.php">Подписаться на новостную рассылку</a></li>
+                        <li><a href="/for-insured/">Для застрахованных</a></li>
+                        <li><a href="/chi_policy.php">Для чего нужен полис ОМС</a></li>
+                        <li><a href="/get-replace-policy.php">Порядок получения/замены полиса ОМС</a></li>
+                        <li><a href="/verify/">Проверка полиса на готовность</a></li>
+                        <li><a href="/oms-in-khakassia/">ОМС в Республике Хакасия</a></li>
+                        <li><a href="/protection-of-the-rights/">Защита прав застрахованных</a></li>
+                        <li><a href="/healthy-lifestyle/">Здоровый образ жизни</a></li>
+                        <li><a href="/disp/">Диспансеризация</a></li>
+                        <li><a href="/for-insured/ob-okazanii-besplatnoy-yuridicheskoy-pomoshchi-grazhdanam.php">Об оказании юридической помощи</a></li>
+                        <li><a href="https://кврачу19.рф/">Записаться к врачу</a></li>
+                        <li><a href="/contacts/">Контакты</a></li>
+                        <li><a href="https://www.gosuslugi.ru/category/health" target="_blank">Личный кабинет</a></li>
+        </ul>
+    <a href="#" id="pull">МЕНЮ</a>
+    <,av>
+</div>
+<nav class="mh-navigation mh-main-nav mh-container mh-container-inner mh-clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <ul id="horizontal-multilevel-menu" class="menu">
+
+                
+            
+            
+                
+                                            
+                                                    <li><a href="/index.php" class="root-item">Главная</a></li>
+                                                
+                    
+                
+            
+            
+                
+            
+            
+                                    
+                                            <li class="menu-item-has-children"><a href=",ews/pervyy-razdel/" class="root-item">Новости</a>
+                            <ul>
+                                        
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/subscribe.php">Подписаться на новостную рассылку</a></li>
+                    
+                
+            
+            
+                
+                            </ul></li>            
+            
+                                    
+                                            <li class="menu-item-has-children"><a href="/for-insured/" class="root-item">Для застрахованных</a>
+                            <ul>
+                                        
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/chi_policy.php">Для чего нужен полис ОМС</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/get-replace-policy.php">Порядок получения/замены полиса ОМС</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/verify/">Проверка полиса на готовность</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/oms-in-khakassia/">ОМС в Республике Хакасия</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/protection-of-the-rights/">Защита прав застрахованных</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/healthy-lifestyle/">Здоровый образ жизни</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/disp/">Диспансеризация</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="/for-insured/ob-okazanii-besplatnoy-yuridicheskoy-pomoshchi-grazhdanam.php">Об оказании юридической помощи</a></li>
+                    
+                
+            
+            
+                
+            
+            
+                
+                                            <li><a href="https://кврачу19.рф/">Записаться к врачу</a></li>
+                    
+                
+            
+            
+                
+                            </ul></li>            
+            
+                
+                                            
+                                                    <li><a href="/contacts/" class="root-item">Контакты</a></li>
+                                                
+                    
+                
+            
+            
+        
+                
+        <li class="current-menu-item" style="float: right;"><a href="https://www.gosuslugi.ru/category/health" target="_blank">Личный кабинет</a></li>
+        
+        
+    </ul>
+<,av>
+
+<div class="menu-clear-left"></div>
+                            </div>
+    
+    		<!-- jquery menu -->
+    		<script>
+    			$(document).scroll(function () {
+    			    var widthMenuFixed = $('#headerid').width();
+    			    
+    				if ($(document).scrollTop() > ($('header').height() + $('.mh-main-nav-wrap').height()) && $('#fixedNav').width() > 750){
+    				    widthMenuFixed = $('#headerid').width();
+    				    $('#fixedNav').addClass('fixed');
+    				    $('.fixed').css('width', widthMenuFixed);
+    				    
+    					//$('.fixed').width(widthMenuFixed);
+    				}
+    				else{
+    				    widthMenuFixed = $('#headerid').width();
+    				    $('#fixedNav').removeClass('fixed');
+    				    //$('#fixedNav').width(widthMenuFixed);
+    				}
+    			});
+    		</script>
+    
+            <div class="mh-wrapper mh-home mh-clearfix">
+	<div id="main-content" class="mh-loop mh-content">
+	<h4 class="mh-widget-title"><span class="mh-widget-title-inner">Тарифное соглашение</span></h4>
+	<div align="justify" style="position: relative; font-size: 16px; font-size: 1rem; padding-bottom: 5px; margin-bottom: 20px; margin-bottom: 1.25rem;">
+		<div class="entry-content mh-clearfix">
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: center;">
+				 ПРАВИТЕЛЬСТВО РЕСПУБЛИКИ ХАКАСИЯ
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: center;">
+				 ПОСТАНОВЛЕНИЕ<br>
+				 ОТ 03.02.2012 N 56
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: center;">
+				 О КОМИССИИ ПО РАЗРАБОТКЕ ТЕРРИТОРИАЛЬНОЙ ПРОГРАММЫ<br>
+				 ОБЯЗАТЕЛЬНОГО МЕДИЦИНСКОГО СТРАХОВАНИЯ<br>
+				 РЕСПУБЛИКИ ХАКАСИЯ<br>
+				 Список изменяющих документов<br>
+				 (в ред. Постановлений Правительства Республики Хакасия<br>
+				 от 09.07.2013 N 374, от 05.06.2014 N 259, от 23.07.2015 N 354,<br>
+				 от 25.04.2016 N 200,от 28.06.2017 N 325, от 27.12.2019 г. N 671, от 11.09.2020 N 484, от 19.02.2021 N 68, от 02.06.2021 N 278, от 30.12.2021 N 731, от 24.11.2022 N 717, от 29.05.2023 N 409)
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: justify;">
+				<p>
+					 В соответствии со статьей 36 Федерального закона от 29.11.2010 N 326-ФЗ "Об обязательном медицинском страховании в Российской Федерации" (с последующими изменениями), приказом Министерства здравоохранения Российской Федерации от 28.02.2019 N 108н "Об утверждении Правил обязательного медицинского страхования" Правительство Республики Хакасия постановляет:
+				</p>
+				<p>
+					 (преамбула в ред. Постановления Правительства Республики Хакасия от 11.09.2020 N 484)
+				</p>
+				<p>
+					 1. Создать комиссию по разработке территориальной программы обязательного медицинского страхования Республики Хакасия.
+				</p>
+				<p>
+					 2. Утвердить состав комиссии по разработке территориальной программы обязательного медицинского страхования Республики Хакасия (приложение).
+				</p>
+				<p>
+					 3. Определить Министерство здравоохранения Республики Хакасия уполномоченным органом государственной власти Республики Хакасия в составе комиссии по разработке территориальной программы обязательного медицинского страхования Республики Хакасия.
+				</p>
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: right;">
+				 Глава Республики Хакасия -<br>
+				 Председатель Правительства<br>
+				 Республики Хакасия<br>
+				 В.ЗИМИН
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: right;">
+				 Приложение
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: right;">
+				 Утвержден<br>
+				 Постановлением<br>
+				 Правительства Республики Хакасия<br>
+				 "О комиссии по разработке<br>
+				 территориальной программы обязательного<br>
+				 медицинского страхования<br>
+				 Республики Хакасия"<br>
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: center;">
+ <b>СОСТАВ<br>
+				 КОМИССИИ ПО РАЗРАБОТКЕ ТЕРРИТОРИАЛЬНОЙ ПРОГРАММЫ<br>
+				 ОБЯЗАТЕЛЬНОГО МЕДИЦИНСКОГО СТРАХОВАНИЯ<br>
+				 РЕСПУБЛИКИ ХАКАСИЯ</b>
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: center;">
+				 Список изменяющих документов<br>
+				 (в ред. Постановления Правительства Республики Хакасия<br>
+				 от 29.05.2023 N 409)
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: center;">
+				<table border="1" cellspacing="0" cellpadding="0" bordercolor="#000000">
+				<tbody>
+				<tr>
+					<td>
+						<p align="center">
+							 Ананьевский Олег Васильевич
+						</p>
+					</td>
+					<td>
+						<p>
+							 Министр здравоохранения Республики Хакасия, председатель комиссии
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p align="center">
+							 Баутина <span style="font-size: 1rem;">Ирина Михайловна</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							 заместитель директора Территориального фонда обязательного медицинского страхования Республики Хакасия по вопросам планирования и экономического анализа, секретарь комиссии (по согласованию).          
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<p align="center">
+							 Члены комиссии
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p align="center">
+ <span style="font-weight: 400;">Бурнакова </span><span style="font-weight: 400;">Любовь Алексеевна</span><br>
+						</p>
+					</td>
+					<td>
+						<p>
+							 директор Территориального фонда обязательного медицинского страхования Республики Хакасия (по согласованию);<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Жигало Владимир Иванович
+						</p>
+					</td>
+					<td>
+						<p>
+							 главный врач Государственного бюджетного учреждения здравоохранения Республики Хакасия "Абаканская межрайонная клиническая больница";
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Мальчиков Алексей Викторович
+						</p>
+					</td>
+					<td>
+						<p>
+							 председатель первичной профсоюзной организации Государственного бюджетного учреждения здравоохранения Республики Хакасия "Республиканский клинический онкологический диспансер" (по согласованию);<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Романов Павел Владимирович
+
+						</p>
+					</td>
+					<td>
+						<p>
+							 член Правления Медицинской палаты Республики Хакасия (по согласованию);<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Мальгина Нина Юрьевна
+						</p>
+					</td>
+					<td>
+						<p>
+							 директор филиала общества с ограниченной ответственностью "Страховая компания "Ингосстрах-М" в г. Абакане (по согласованию);<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Парфенов Александр Владимирович
+						</p>
+					</td>
+					<td>
+						<p>
+							 член Правления Медицинской палаты Республики Хакасия (по согласованию);<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Рыбаченко Татьяна Ильинична
+						</p>
+					</td>
+					<td>
+						<p>
+							 председатель Хакасской республиканской организации профсоюза работников здравоохранения Российской Федерации (по согласованию);<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Шоев Павел Георгиевич
+						</p>
+					</td>
+					<td>
+						<p>
+							 заместитель Министра здравоохранения Республики Хакасия;<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							 Тихонович Алексей Валерьевич
+						</p>
+					</td>
+					<td>
+						<p>
+							 главный врач Государственного бюджетного учреждения здравоохранения Республики Хакасия "Республиканская клиническая больница имени Г.Я. Ремишевской";<br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							Власова Светлана Валентиновна
+						</p>
+					</td>
+					<td>
+						<p>
+							 директор Хакасского филиала Общества с ограниченной ответственностью "Страховая медицинская компания РЕСО-Мед" (по согласованию).<br>
+						</p>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: center;">
+				<table border="1" cellpadding="1" cellspacing="1">
+				<tbody>
+				<tr>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK_1_2021.rar">Решение Комиссии №1 от 20.01.2021</a>
+					</td>-->
+					<td>
+ <a href="/docs/Tarifnoe/RK_1_2022.rar">Решение Комиссии №1 от 17.01.2022</a>
+					</td>
+					<td>
+ <a href="/docs/Tarifnoe/RK1_09_01_2023.rar">Решение Комиссии №1 от 09.01.2023</a>
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK_2_2021.rar">Решение Комиссии №2 от 03.03.2021</a>
+					</td>-->
+					<td>
+ <a href="/docs/Tarifnoe/RK_2_2022.rar">Решение Комиссии №2 от 25.01.2022</a>
+					</td>
+					<td>
+ <a href="/docs/Tarifnoe/RK2_20_01_2023.rar">Решение Комиссии №2 от 20.01.2023</a>
+					</td>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK_2_2022.rar">Решение Комиссии №2 от 25.01.2022</a>
+					</td> -->   
+				</tr>
+				<tr>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK_3_2021.rar">Решение Комиссии №3 от 09.04.2021</a>RK_2_2023.rar
+					</td>-->
+					<td>
+ <a href="/docs/Tarifnoe/RK_02_2022.rar">Решение Комиссии №3 от 22.02.2022</a>
+					</td>
+                    <td>
+ <a href="/docs/Tarifnoe/RK3_31_01_2023.rar">Решение Комиссии №3 от 31.01.2023</a>
+					</td>
+				</tr>
+				<tr>
+					
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK4_2021.rar">Решение Комиссии №4 от 29.04.2021</a>
+					</td>-->
+ 					<td>
+ <a href="/docs/Tarifnoe/RK4_18_2022.rar">Решение Комиссии №4 от 18.03.2022</a>					    
+					</td>
+					<td>
+ <a href="/docs/Tarifnoe/RK4_24_05_2023.rar">Решение Комиссии №4 от 24.05.2023</a>					    
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK5_2021.rar">Решение Комиссии №5 от 30.06.2021</a>
+					</td>-->
+					<td>
+ <a href="/docs/Tarifnoe/RK_5_2022.rar">Решение Комиссии №5 от 05.05.2022</a>
+ 					</td>
+ 						<td>
+ <a href="/docs/Tarifnoe/RK5_20_07_2023.rar">Решение Комиссии №5 от 20.07.2023</a>
+ 					</td>
+				</tr>
+				<tr>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK_6_2021.rar">Решение Комиссии №6 от 23.07.2021</a>
+					</td>   Решение Комиссии №6 от 31.08.2023.rar-->
+					<td>
+<a href="/docs/Tarifnoe/RK_6_2022.rar">Решение Комиссии №6 от 30.05.2022</a>
+					</td>
+										<td>
+<a href="/docs/Tarifnoe/Решение Комиссии №6 от 31.08.2023.rar">Решение Комиссии №6 от 31.08.2023</a>
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK_7_2021.rar">Решение комиссии №7 от 16.08.2021</a>
+					</td>-->
+					<td>
+<a href="/docs/Tarifnoe/RK_7_28.06.2022.rar">Решение комиссии №7 от 28.06.2022</a>
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+ <a href="/docs/Tarifnoe/RK_8_2021.rar">Решение Комиссии №8 от 30.08.2021</a>
+					</td>-->
+					<td>
+<a href="/docs/Tarifnoe/RK_08_15_2022.rar">Решение Комиссии №8 от 15.08.2022</a>   
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+                        <a href="/docs/Tarifnoe/RK_9_2021.rar">Решение Комиссии №9 от 29.09.2021</a>
+					</td>-->
+					<td>
+					    <a href="/docs/Tarifnoe/RK_09_2022.rar">Решение Комиссии №9 от 19.09.2022</a>
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+                        <a href="/docs/Tarifnoe/RK102021.rar">Решение Комиссии №10 от 28.10.2021</a>					    
+					</td>-->
+					<td>
+					    <a href="/docs/Tarifnoe/RK_30_09_2022.rar">Решение Комиссии №10 от 30.09.2022</a>
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+                        <a href="/docs/Tarifnoe/RK_11_2021.rar">Решение Комиссии №11 от 09.11.2021</a>					    
+					</td>-->
+					<td>
+					    <a href="/docs/Tarifnoe/RK_02_11_2022.rar">Решение Комиссии №11 от 02.11.2022</a>
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+				        <a href="/docs/Tarifnoe/RK_12_2021.rar">Решение Комиссии №12 от 26.11.2021</a>
+					</td>-->
+					<td>
+					   <a href="/docs/Tarifnoe/Решение_Комиссии_№12_от_15.11.2022.rar">Решение Комиссии №12 от 15.11.2022</a> 
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+					    <a href="/docs/Tarifnoe/RK_13_2021.rar">Решение Комиссии №13 от 17.12.2021</a> 
+					</td>-->
+					<td>
+					    <a href="/docs/Tarifnoe/Решение_Комиссии_№13_от_29.11.2022.rar">Решение Комиссии №13 от 29.11.2022</a>
+					</td>
+				</tr>
+				<tr>
+					<!--<td>
+					    <a href="/docs/Tarifnoe/RK_14_2021.rar">Решение Комиссии №14 от 27.12.2021</a>
+					</td>-->
+					<td>
+					     <a href="/docs/Tarifnoe/Решение_Комиссии_№14_от_28.12.2022.rar">Решение Комиссии №14 от 28.12.2022</a>
+					</td>
+				</tr>
+				
+				</tbody>
+				</table>
+			</div>
+			<div align="center" style="margin: 0cm 0cm 10pt; text-align: justify;">
+				<!-- <a href="/docs/Tarifnoe/Ter_plan_4_kvartal_2021.pdf">Территориальный план мероприятий по организации дополнительного профессионального образования медицинских работников по программам повышения квалификации, а также по приобретению и проведению ремонта медицинского оборудования на 4 квартал 2021 года</a> -->
+			    <a href="/docs/Tarifnoe/Ter_plan_4_kvartal_2023.pdf">План мероприятий по использованию медицинскими организациями средств нормированного страхового запаса территориального фонда обязательного медицинского страхования для финансового обеспечения мероприятий по организации дополнительного профессионального образования медицинского работника по программе повышения квалификации, а также по приобретению и проведению ремонта медицинского
+оборудования на 2023 год</a>
+			</div>
+		</div>
+	</div>
+</div>	<div class="mh-widget-col-1 mh-sidebar mh-home-sidebar mh-home-area-6">
+		<h4 class="mh-widget-title"><span class="mh-widget-title-inner">Поиск</span></h4>
+		<div id="search-3" class="mh-widget widget_search">
+			 <form role="search" method="get" class="search-form" action="search-result.php"> <!-- http://bx1.wand1.z80g6.spectrum.myjino.ru// http://tfomsrh.ru// -->
+    <label>
+                <span class="screen-reader-text">Найти:</span>
+        <script>
+	BX.ready(function(){
+		var input = BX("qplSKIW");
+		if (input)
+			new JsSuggest(input, 'pe:10,md5:,site:s1');
+	});
+</script>
+<IFRAME
+	style="width:0px; height:0px; border: 0px;"
+	src="javascript:''"
+	name="qplSKIW_div_frame"
+	id="qplSKIW_div_frame"
+></IFRAME><input
+			size="20"
+		name="q"
+	id="qplSKIW"
+	value=""
+	class="search-suggest"
+	type="text"
+	autocomplete="off"
+	placeholder="Поиск"
+/>            </label>
+    <input type="submit" class="search-submit" value="Поиск">
+</form>		</div>
+		<div id="category-posts-2" class="mh-widget mh-home-6 cat-post-widget">
+			<h4 class="mh-widget-title"> <span class="mh-widget-title-inner">Главное меню</span></h4>
+			 
+
+<ul id="category-posts-2-internal" class="category-posts-internal">
+
+			<li class="cat-post-item"><a href="/index.php" class="animated-button thar-three">Главная</a></li>
+		
+			<li class="cat-post-item"><a href=",ews/pervyy-razdel/" class="animated-button thar-three">Новости</a></li>
+		
+			<li class="cat-post-item"><a href=",ews/articles/" class="animated-button thar-three">Статьи</a></li>
+		
+			<li class="cat-post-item"><a href="/chi_policy.php" class="animated-button thar-three">Памятка для застрахованных</a></li>
+		
+			<li class="cat-post-item"><a href="/oms-in-khakassia/" class="animated-button thar-three">ОМС в Республике Хакасия</a></li>
+		
+			<li class="cat-post-item"><a href="/chi_funds/" class="animated-button thar-three">Фондам ОМС</a></li>
+		
+			<li class="cat-post-item"><a href="/legislation.php" class="animated-button thar-three">Законодательство</a></li>
+		
+			<li class="cat-post-item"><a href="/anti-corruption.php" class="animated-button thar-three">Противодействие коррупции</a></li>
+		
+			<li class="cat-post-item"><a href="/tariff-agreement.php" class="animated-button thar-three selected" style="color: #0094FF;"><b>Тарифное соглашение</b></a></li>
+		
+			<li class="cat-post-item"><a href="/for-insured/" class="animated-button thar-three">Для застрахованных</a></li>
+		
+			<li class="cat-post-item"><a href="/inf-security/" class="animated-button thar-three">Информационная безопасность</a></li>
+		
+			<li class="cat-post-item"><a href="/protection-of-the-rights/" class="animated-button thar-three">Защита прав застрахованных</a></li>
+		
+			<li class="cat-post-item"><a href="/for-policyholder/" class="animated-button thar-three">Для страхователей</a></li>
+		
+			<li class="cat-post-item"><a href="/medicinal-provision/" class="animated-button thar-three">Лекарственное обеспечение</a></li>
+		
+			<li class="cat-post-item"><a href="/healthy-lifestyle/" class="animated-button thar-three">Здоровый образ жизни</a></li>
+		
+			<li class="cat-post-item"><a href="/disp/" class="animated-button thar-three">Диспансеризация</a></li>
+		
+			<li class="cat-post-item"><a href="/about-us/" class="animated-button thar-three">О ТФОМС РХ</a></li>
+		
+			<li class="cat-post-item"><a href="/tfomsrh_activity.php" class="animated-button thar-three">Показатели деятельности ТФОМС РХ</a></li>
+		
+			<li class="cat-post-item"><a href="/vacancy.php" class="animated-button thar-three">Вакансии</a></li>
+		
+			<li class="cat-post-item"><a href="/contacts/" class="animated-button thar-three">Контакты</a></li>
+		
+
+</ul>
+
+
+
+		</div>
+        <div id="category-posts-2" class="mh-widget mh-home-6 cat-post-widget">
+			<h4 class="mh-widget-title"> <span class="mh-widget-title-inner">Сервисное меню</span></h4>
+			 
+
+<ul id="category-posts-2-internal" class="category-posts-internal">
+
+			<li class="cat-post-item"><a href="/verify/" class="animated-button thar-three">Проверка полиса на готовность</a></li>
+		
+			<li class="cat-post-item"><a href="/questions/index.php" class="animated-button thar-three">Задать вопрос</a></li>
+		
+			<li class="cat-post-item"><a href="/rating-smo.php" class="animated-button thar-three">Рейтинг СМО</a></li>
+		
+			<li class="cat-post-item"><a href="/subscribe.php" class="animated-button thar-three">Подписка на новости</a></li>
+		
+			<li class="cat-post-item"><a href="/video.php" class="animated-button thar-three">Видеоматериалы</a></li>
+		
+
+</ul>
+
+
+
+		</div>
+		<div id="category-posts-2" class="mh-widget mh-home-6 cat-post-widget">
+			<h4 class="mh-widget-title"> <span class="mh-widget-title-inner">Полезные ссылки</span></h4>
+			 
+
+<ul id="category-posts-2-internal" class="category-posts-internal">
+
+			<li class="cat-post-item"><a href="http://www.ffoms.ru/" class="animated-button thar-three">ФФОМС</a></li>
+		
+			<li class="cat-post-item"><a href="https://www.gosuslugi.ru/" class="animated-button thar-three">Госуслуги РФ</a></li>
+		
+			<li class="cat-post-item"><a href="https://www.rosminzdrav.ru/" class="animated-button thar-three">Минздрав РФ</a></li>
+		
+			<li class="cat-post-item"><a href="http://www.vskhakasia.ru/" class="animated-button thar-three">Верховный совет РХ</a></li>
+		
+			<li class="cat-post-item"><a href="https://xn--19-6kch3bybw5a.xn--p1ai/" class="animated-button thar-three">Записаться к врачу</a></li>
+		
+			<li class="cat-post-item"><a href="https://sfr.gov.ru/" class="animated-button thar-three">Социальный фонд РФ</a></li>
+		
+
+</ul>
+
+
+
+		</div>
+		<div id="category-posts-2" class="mh-widget mh-home-6 widget_calendar">
+		    <h4 class="mh-widget-title"><span class="mh-widget-title-inner">Социальные сети</span></h4>
+		    		    <ul id="category-posts-2-internal" class="category-posts-internal">
+            		<li class="cat-post-item"><a href="https://vk.com/tfomsrh" class="animated-button thar-three"><img src="/bitrix/templates/empty/images/icons/vk.png" style="vertical-align: top; height: 30px;"> вКонтакте</a></li>
+                        </ul>
+	    </div>
+		<div id="category-posts-2" class="mh-widget mh-home-6 widget_calendar">
+			<h4 class="mh-widget-title"><span class="mh-widget-title-inner">Календарь</span></h4>
+			<div>
+				 <div class="news-calendar-compact">
+    	<table width='100%' border='0' cellspacing='0' cellpadding='1' class='NewsCalTable'>
+	<tr>
+			<td align="center" class='NewsCalHeader'>Пн</td>
+			<td align="center" class='NewsCalHeader'>Вт</td>
+			<td align="center" class='NewsCalHeader'>Ср</td>
+			<td align="center" class='NewsCalHeader'>Чт</td>
+			<td align="center" class='NewsCalHeader'>Пт</td>
+			<td align="center" class='NewsCalHeader'>Сб</td>
+			<td align="center" class='NewsCalHeader'>Вс</td>
+		</tr>
+		<tr>
+				<td align="right" valign="top" class='NewsCalOtherMonth' width="14%">
+							<span class="">28</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalOtherMonth' width="14%">
+							<span class="">29</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalOtherMonth' width="14%">
+							<span class="">30</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalOtherMonth' width="14%">
+							<span class="">31</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">1</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">2</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">3</span>
+					</td>
+			</tr >
+		<tr>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">4</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">5</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">6</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">7</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">8</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">9</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">10</span>
+					</td>
+			</tr >
+		<tr>
+				<td align="right" valign="top" class='NewsCalToday' width="14%">
+							<a title="Председатель ФОМС принял участие в V Форуме социальных инноваций регионов" href=",ews/pervyy-razdel/predsedatel-foms-prinyal-uchastie-v-v-forume-sotsialnykh-innovatsiy-regionov" class="">11</a>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">12</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">13</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">14</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">15</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">16</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">17</span>
+					</td>
+			</tr >
+		<tr>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">18</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">19</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">20</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">21</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">22</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">23</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">24</span>
+					</td>
+			</tr >
+		<tr>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">25</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">26</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">27</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">28</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalDefault' width="14%">
+							<span class="">29</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalWeekend' width="14%">
+							<span class="">30</span>
+					</td>
+				<td align="right" valign="top" class='NewsCalOtherMonth' width="14%">
+							<span class="">1</span>
+					</td>
+			</tr >
+		</table>
+</div>			</div>
+		</div>
+	</div>
+</div>
+
+
+
+                <div class="mh-copyright-wrap" style="border-top: 3px solid #999;">
+                	<div class="mh-container mh-container-inner mh-clearfix">
+                        <span style="float:left;">
+                            <p class="mh-copyright">© 2023 Территориальный фонд обязательного медицинского страхования Республики Хакасия</p>
+                            <p class="mh-copyright">При использовании материалов ссылка на <a href="http://www.tfomsrh.ru/" rel="nofollow">сайт</a> обязательна.</p>
+                            <p class="mh-copyright">655001, Республика Хакасия, г. Абакан, ул. Пушкина, д. 199 Б</p>
+                            <p class="mh-copyright">Телефон: 8 (3902) 24-39-91</p>
+                            <p class="mh-copyright">Горячая линия: 8 (800) 350-42-25 </p>
+                        </span>
+                        <span style="float:right;">
+                        </span>
+                	</div>
+                </div>
+            </div>
+        </div>
+        <script src="/bitrix/templates/empty/js/classie.js"></script>
+		<script src="/bitrix/templates/empty/js/pathLoader.js"></script>
+		<script src="/bitrix/templates/empty/js/main.js"></script>
+		<script language="JavaScript" type="text/javascript">
+            function loadXMLDoc(dname)
+            {
+                if (window.XMLHttpRequest)
+                {
+                    xhttp=new XMLHttpRequest();
+                }
+                else
+                {
+                    xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+                }
+                xhttp.open("GET",dname,false);
+                xhttp.send();
+                return xhttp.responseXML;
+            } 
+            function searchXML()
+            {
+                xmlDoc=loadXMLDoc("/verify/files/Verify.xml");
+                x=xmlDoc.getElementsByTagName("NPOL");
+                input = document.getElementById("input").value;
+                size = input.length;
+                if (input == null || input == "")
+                {
+                    document.getElementById("results").innerHTML= "Номер временного свидетельства не указан.";
+                    return false;
+                }
+                for (i=0;i<x.length;i++)
+                {
+                    npol=xmlDoc.getElementsByTagName("NPOL")[i].childNodes[0].nodeValue;
+                    
+                    startString = npol.substring(0,size);
+                    if (startString.toLowerCase() == input.toLowerCase())
+                    {
+                        npol=xmlDoc.getElementsByTagName("NPOL")[i].childNodes[0].nodeValue;
+                        policyverify=xmlDoc.getElementsByTagName("POLICYVERIFY")[i].childNodes[0].nodeValue;
+                        divText = "<div><table border=1><tr><th>Номер временного свидетельства</th><th>Статус</th></tr>" + "<tr><td>" + npol + "</td><td>" + policyverify + "</td></tr>" + "</table></div>";
+                        if (policyverify === "Полис готов") {
+                            divText = divText + "<div>В ближайшее время вы сможете забрать полис в страховой медицинской организации.</div>";
+                        }
+                        break;
+                    }
+                    else
+                    {
+                        divText = "По данному номеру временного свидетельства информация не была найдена. Повторите попытку или позвоните в страховую медицинскую организацию для уточнения информации о готовности полиса обязательного медицинского страхования.";
+                    }
+                }
+                document.getElementById("results").innerHTML= divText;
+            }
+        </script>
+    </body>
+</html>

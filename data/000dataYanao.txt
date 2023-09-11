@@ -1,0 +1,953 @@
+    <!DOCTYPE html>
+<html lang="ru-RU">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="cIyDrSVJtDAjd1egxpFAWFoNOLeSeD0NT5l4S7e2X2gX2_fGCDn-UloyYNqxwxocMkVvz6Upf2cr3BcygoQlBA==">
+        <title>Документы</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+        <meta name="mailru-domain" content="lVFJhPIkCoFEzR0V" />
+        <link href="/assets/b562ff5c/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/94451c7f/css/bootstrap-datepicker3.min.css" rel="stylesheet">
+<link href="/assets/94451c7f/css/datepicker-kv.min.css" rel="stylesheet">
+<link href="/assets/7f4ffc8b/css/kv-widgets.min.css" rel="stylesheet">
+<link href="/assets/8bd686d2/css/select2.min.css" rel="stylesheet">
+<link href="/assets/7cbee57a/css/select2-addl.min.css" rel="stylesheet">
+<link href="/assets/7cbee57a/css/select2-krajee.min.css" rel="stylesheet">
+<link href="/skins/red-blue/blue.css" rel="stylesheet">
+<link href="/css/style-general.css" rel="stylesheet">
+<link href="/css/extra-style.css" rel="stylesheet">
+<link href="/css/scroll.css" rel="stylesheet">
+<link href="/garland/style.css" rel="stylesheet">
+<link href="/assets/66b33c0c/css/style.css" rel="stylesheet">
+<link href="/assets/3ab971f9/css/dropdown-x.min.css" rel="stylesheet">
+<script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" defer crossorigin="anonymous"></script>
+<script>window.kvDatepicker_de751a29 = {"todayHighlight":true,"autoclose":true,"format":"dd.mm.yyyy","language":"ru"};
+
+var s2options_c4acac00 = {"themeCss":".select2-container--krajee","sizeCss":"","doReset":true,"doToggle":true,"doOrder":false};
+window.select2_62afa624 = {"tags":true,"theme":"krajee","width":"100%","placeholder":"Выберите тег ...","language":"ru-RU"};
+
+window.select2_47d1075f = {"tags":true,"theme":"krajee","width":"100%","placeholder":"Выберите тег для поиска ...","language":"ru-RU"};
+</script>    </head>
+<body>
+<div style="margin-right:auto;margin-left:auto;*zoom:1;">
+    <div class="pace  pace-inactive">
+        <div class="pace-progress" data-progress-text="100%" data-progress="99">
+            <div class="pace-progress-inner"></div>
+        </div>
+        <div class="pace-activity"></div>
+    </div>
+
+    <div class="sv_settings text-center" id="sv_settings">
+            <span>Размер шрифта
+                <span class="fs-outer">
+                    <button class="btn btn-default fs-n" id="fs-n">А</button>
+                    <button class="btn btn-default fs-m" id="fs-m">А</button>
+                    <button class="btn btn-default fs-l" id="fs-l">А</button>
+                </span>
+            </span>
+            <span>Интервал
+                <span class="lh-outer">
+                    <button class="btn btn-default lh-n" id="lh-n">+</button>
+                    <button class="btn btn-default lh-m" id="lh-m">++</button>
+                    <button class="btn btn-default lh-l" id="lh-l">+++</button>
+                </span>
+            </span>
+            <span class="mgl20">Цветовая схема
+                <span class="cs-outer">
+                    <button class="btn btn-default cs-bw" id="cs-bw">А</button>
+                    <button class="btn btn-default cs-wb" id="cs-wb">А</button>
+                    <button class="btn btn-default cs-bb" id="cs-bb">А</button>
+                    <button class="btn btn-default cs-gb" id="cs-gb">А</button>
+                    <button class="btn btn-default cs-yg" id="cs-yg">А</button>
+                </span>
+            </span>
+
+            <span class="mgl20">Изображения
+                <span class="img-outer">
+                    <button class="btn btn-default" id="img-onoff"><span
+                            class="glyphicon glyphicon-picture"></span><span
+                            id="img-onoff-text"> Отключить</span></button>
+                </span>
+            </span>
+    </div>
+</div>
+
+<div id="leftbar">
+    <a id="sv_on" class="btn btn-primary extra" href="#">Версия для слабовидящих<!--<img src="/images/version.png">--></a>
+</div>
+
+<div id="wrapper">
+    <header id="header" class="container-fluid">
+
+        <div class="header-bg">
+            <div class="container">
+                <div class="decoration dec-left visible-desktop"></div>
+                <div class="decoration dec-right visible-desktop"></div>
+
+                <div class="row">
+    <div class="col-md-1" style="margin-top: 10px;    margin-bottom: 20px;">
+        <div class="row">
+            <div class="col-md-12" style="text-align: center; ">
+                <a href="/" alt="ТФОМС ЯНАО"
+                   style=" text-decoration: none;"><img src="/images/logo.png" alt="" style="width:90px;margin-top: 5px;"></a>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-5" style="margin-top:35px;text-align: center;">
+        <div class="row">
+            <div class="col-md-12">
+                <h5 style="    margin: 0 0 10px;">Сайт Территориального фонда обязательного медицинского страхования
+                    ЯНАО</h5>
+
+                <p>Ямало-Ненецкий автономный округ, г.Салехард, ул. Зои Космодемьянской, д. 59</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 text-center" style="margin-top:35px;    margin-bottom: 20px;">
+        <div class="row">
+            <div class="col-md-12">
+                <button class="btn btn-primary" data-toggle="modal" data-target="#myModal" style="margin-bottom: 10px;">
+                    <div><span style="font-size: 125%;">КОНТАКТ-ЦЕНТР</span><br><span
+                                style="text-align:center;font-size: 200%;"> 8-800-100-89-03</span>
+                    </div>
+                </button>
+            </div>
+
+        </div>
+
+
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                    aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">КОНТАКТ-ЦЕНТР</h4>
+                    </div>
+                    <div class="modal-body">
+                        <span style="color:#FE0000;"><b>Режим работы : </b> - в режиме работы оператора с 9.00 до 18.00 по рабочим дням;- в режиме электронного секретаря с 18.00 до 9.00 по рабочим дням, в выходные и праздничные дни - круглосуточно.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="col-md-3" style="margin-top: 25px;    margin-bottom: 20px;">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+    <div style="text-align:center;"><a class="btn btn-primary" href="/user/login" style="text-decoration: none; margin: 10px 0 0 0; color: white;"><i class="fas fa-key"></i> Вход для участников ОМС</a></div><div style="text-align:center;"><a class="btn btn-primary" href="/lk/ora/description" style="text-decoration: none; margin: 10px 0 0 0; color: white;"><i class="fas fa-group"></i> Личный кабинет застрахованного</a></div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12" id="ornament">
+
+    </div>
+</div>
+<div class="row">
+    <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel2">Поиск</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="ya-site-form ya-site-form_inited_no"
+                         onclick="return {'action':'https://yandex.ru/search/site/','arrow':false,'bg':'transparent','fontsize':12,'fg':'#000000','language':'ru','logo':'rb','publicname':'Yandex Site Search #2315381','suggest':true,'target':'_self','tld':'ru','type':2,'usebigdictionary':true,'searchid':2315381,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':null,'input_placeholderColor':'#000000','input_borderColor':'#7f9db9'}">
+                        <form action="https://yandex.ru/search/site/" method="get" target="_self"
+                              accept-charset="utf-8"><input type="hidden" name="searchid" value="2315381"/><input
+                                    type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc"
+                                                                                 value=""/><input type="search"
+                                                                                                  name="text" value=""/><input
+                                    type="submit" value="Найти"/></form>
+                    </div>
+                    <style type="text/css">.ya-page_js_yes .ya-site-form_inited_no {
+                            display: none;
+                        }</style>
+                    <script type="text/javascript">(function (w, d, c) {
+                            var s = d.createElement('script'), h = d.getElementsByTagName('script')[0],
+                                e = d.documentElement;
+                            if ((' ' + e.className + ' ').indexOf(' ya-page_js_yes ') === -1) {
+                                e.className += ' ya-page_js_yes';
+                            }
+                            s.type = 'text/javascript';
+                            s.async = true;
+                            s.charset = 'utf-8';
+                            s.src = (d.location.protocol === 'https:' ? 'https:' : 'http:') + '//site.yandex.net/v2.0/js/all.js';
+                            h.parentNode.insertBefore(s, h);
+                            (w[c] || (w[c] = [])).push(function () {
+                                Ya.Site.Form.init()
+                            })
+                        })(window, document, 'yandex_site_callbacks');</script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="">
+        
+        <nav id="custom-bootstrap-menu" class="navbar navbar-default navbar"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-bootstrap-menu-collapse"><span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span></button></div><div id="custom-bootstrap-menu-collapse" class="collapse navbar-collapse"><ul id="w3" class="nav nav-pills navbar-nav navbar-left nav"><li class="dropdown"><a class="dropdown-toggle" href="/document/document/" data-toggle="dropdown">ДОКУМЕНТЫ <span class="caret"></span></a><ul id="w4" class="dropdown-menu"><li class=""><a href="/document/document/index" tabindex="-1">Все</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D=Материалы+комиссии" tabindex="-1">Материалы комиссии</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D=Тарифное%20соглашение" tabindex="-1">Тарифное соглашение</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D=НСИ" tabindex="-1">НСИ</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D=Защита+прав+застрахованных" tabindex="-1">Защита прав застрахованных</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D=НСЗ" tabindex="-1">НСЗ</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D=Противодействие+коррупции" tabindex="-1">Противодействие коррупции</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D%5B%5D=Территориальная+программа+гос.+гарантий" tabindex="-1">Территориальные программы</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D=Региональные%20справочники" tabindex="-1">Региональные справочники</a></li>
+<li class=""><a href="/document/document/index?DocumentSearch%5BtagValues%5D%5B%5D=НОРМАТИВНЫЕ+ЗАТРАТЫ" tabindex="-1">Нормативные затраты</a></li></ul></li>
+<li class=""><a href="/news/news/index">НОВОСТИ</a></li>
+<li class="dropdown"><a class="dropdown-toggle" href="/document/document/" data-toggle="dropdown">Сервисы <span class="caret"></span></a><ul id="w5" class="dropdown-menu"><li class=""><a href="/listregisters/moregisters/index" tabindex="-1"><i class="fa fa-file-code-o"></i> Перечень реестров счетов от МО, направляемых для проверки</a></li>
+<li class=""><a href="/listregisters/moregisters/mtr" tabindex="-1"><i class="fa fa-file"></i> Сводный перечень реестров МТР для МО</a></li>
+<li class=""><a href="/listregisters/smoregisters/index" tabindex="-1"><i class="fa fa-file-code-o"></i> Сводный перечень реестров СМО на оплату МП, оказанной застрахованным лицам</a></li>
+<li class=""><a href="https://www.gosuslugi.ru/333637/1" tabindex="-1"><i class="fa fa-file-text"></i> ЗАЯВЛЕНИЕ о выборе (замене) СМО</a></li>
+<li class=""><a href="/attached/attachedmo/index" tabindex="-1"><i class="fa fa-search-plus"></i> Мониторинг прикрепления к МО</a></li>
+<li class=""><a href="/page/page/view/30" tabindex="-1"><i class="fa fa-file-text"></i> Участие в системе ОМС</a></li>
+<li class=""><a href="/listregisters/tsmoact/index" tabindex="-1"><i class="fa fa-thumbs-o-down"></i> Результаты экспертизы СМО</a></li>
+<li class=""><a href="/listregisters/moregisters/index2" tabindex="-1"><i class="fa fa-file"></i> Перечень реестров счетов от МО на оплату</a></li></ul></li>
+<li class=""><a href="/quiz/quizgroup/index">ОПРОСЫ</a></li>
+<li class=""><a href="/questionanswer/questionanswer/index">ВОПРОС-ОТВЕТ</a></li>
+<li class=""><a href="/help/help/index">СПРАВКА</a></li>
+<li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">О фонде <span class="caret"></span></a><ul id="w6" class="dropdown-menu"><li class=""><a href="/site/contacts" tabindex="-1"><i class="fa fa-sitemap"></i> Подразделения ТФОМС</a></li>
+<li class=""><a href="/page/page/view/7" tabindex="-1"><i class="fa fa-sitemap"></i> Организационная структура</a></li>
+<li class=""><a href="https://www.webfoms.ru/document/document/view/821" tabindex="-1"><i class="fa fa-shield"></i> ПОЛИТИКА обработки персональных данных в ТФОМС ЯНАО</a></li>
+<li class=""><a href="/site/contacts" tabindex="-1"><i class="fa fa-globe"></i> Контакты</a></li></ul></li>
+<li class=""><a href="/site/rss">RSS</a></li></ul>
+
+        <ul id="w7" class="nav nav-pills navbar-nav navbar-left nav"><li><a href="/document/document/#" data-toggle="modal" data-target="#myModal2">Поиск</a></li></ul>
+        </div></div></nav>
+
+    </div>
+</div>
+
+            </div>
+        </div>
+    </header>
+
+                    <div class="container">
+    <div id="headline-page">
+        <div id="crumbs">
+            <ul class="breadcrumb"><li><a href="/">Главная</a></li>
+<li class="active">Документы</li>
+</ul>        </div>
+    </div>
+        <div class="document-index">
+    <div class="row">
+        <div class="col-lg-12">
+            <h2>Документы</h2>
+            <hr/>
+        </div>
+    </div>
+
+        <div class="row">
+            <div class="col-lg-4">
+
+                <a href="https://regulation.gov.ru/" class="link-block"
+                   style="background: url(/images/banner-background.png) 100% 100% no-repeat; height: 80px;">
+                    <h3 class="text-danger">Проекты приказов Минздрава</h3>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="http://cr.rosminzdrav.ru/" class="link-block"
+                   style="background: url(/images/banner-background.png) 100% 100% no-repeat;height: 80px;">
+                    <h3 class="text-danger">Клинические рекомендации</h3>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="https://www.rosminzdrav.ru/ministry/61/22/stranitsa-979/stranitsa-983/2-standarty-spetsializirovannoy-meditsinskoy-pomoschi/" class="link-block"
+                   style="background: url(/images/banner-background.png) 100% 100% no-repeat;height: 80px;">
+                    <h3 class="text-danger">Стандарты медицинской помощи</h3>
+                </a>
+            </div>
+
+        </div>
+
+
+    <div class="row">
+        <div class="col-lg-12">
+
+
+            <div class="collapse" id="collapseExample">
+                <div class="well">
+<!--                    -->                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            
+<div class="document-search well">
+    <p>Поиск по атрибутам</p>
+    <div class="row">
+
+        <form id="w0" action="/document/document/index" method="get">        <div class="col-lg-1">
+            <div class="form-group field-documentsearch-number">
+<label class="control-label" for="documentsearch-number">Номер</label>
+<input type="text" id="documentsearch-number" class="form-control" name="DocumentSearch[number]">
+
+<div class="help-block"></div>
+</div>        </div>
+
+
+        <div class="col-lg-1">
+            <div class="form-group field-documentsearch-type_id">
+<label class="control-label" for="documentsearch-type_id">Тип</label>
+<select id="documentsearch-type_id" class="form-control" name="DocumentSearch[type_id]">
+<option value="">...</option>
+<option value="1">Письмо</option>
+<option value="2">Приказ</option>
+<option value="3">Распоряжение</option>
+<option value="5">Другой</option>
+<option value="6">Приложение</option>
+<option value="7">Договор</option>
+<option value="8">Положение</option>
+<option value="9">Постановление</option>
+<option value="10">Закон</option>
+</select>
+
+<div class="help-block"></div>
+</div>
+        </div>
+        <div class="col-lg-2">
+            <div class="form-group field-documentsearch-range_id">
+<label class="control-label" for="documentsearch-range_id">Уровень</label>
+<select id="documentsearch-range_id" class="form-control" name="DocumentSearch[range_id]">
+<option value="">...</option>
+<option value="1">Федеральный</option>
+<option value="2">Региональный</option>
+</select>
+
+<div class="help-block"></div>
+</div>        </div>
+        <div class="col-lg-2">
+            <div class="form-group field-documentsearch-accepted_org_id">
+<label class="control-label" for="documentsearch-accepted_org_id">Принявший орган</label>
+<select id="documentsearch-accepted_org_id" class="form-control" name="DocumentSearch[accepted_org_id]">
+<option value="">...</option>
+<option value="1">Территориальный фонд обязательного медицинского страхования ЯНАО</option>
+<option value="2">Федеральный фонд обязательного медицинского страхования</option>
+<option value="3">Департамент здравоохранения Ямало-Ненецкого автономного округа</option>
+<option value="4">Министерство здравоохранения Российской Федерации</option>
+<option value="10">Совместный</option>
+<option value="11">Комиссия по разработке ТП ОМС ЯНАО</option>
+</select>
+
+<div class="help-block"></div>
+</div>        </div>
+        <div class="col-lg-3">
+            <div class="form-group field-documentsearch-date">
+<label class="control-label" for="documentsearch-date">Дата принятия</label>
+<div id="documentsearch-date-kvdate" class="input-group  date"><span class="input-group-addon kv-date-picker" title="Выбрать дату"><i class="glyphicon glyphicon-calendar kv-dp-icon"></i></span><span class="input-group-addon kv-date-remove" title="Очистить поле"><i class="glyphicon glyphicon-remove kv-dp-icon"></i></span><input type="text" id="documentsearch-date" class="form-control krajee-datepicker" name="DocumentSearch[date]" data-datepicker-source="documentsearch-date-kvdate" data-datepicker-type="2" data-krajee-kvDatepicker="kvDatepicker_de751a29"></div>
+
+<div class="help-block"></div>
+</div>        </div>
+        <div class="col-lg-3">
+            <div class="form-group field-documentsearch-date_public">
+<label class="control-label" for="documentsearch-date_public">Дата публикации</label>
+<div id="documentsearch-date_public-kvdate" class="input-group  date"><span class="input-group-addon kv-date-picker" title="Выбрать дату"><i class="glyphicon glyphicon-calendar kv-dp-icon"></i></span><span class="input-group-addon kv-date-remove" title="Очистить поле"><i class="glyphicon glyphicon-remove kv-dp-icon"></i></span><input type="text" id="documentsearch-date_public" class="form-control krajee-datepicker" name="DocumentSearch[date_public]" data-datepicker-source="documentsearch-date_public-kvdate" data-datepicker-type="2" data-krajee-kvDatepicker="kvDatepicker_de751a29"></div>
+
+<div class="help-block"></div>
+</div>        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-lg-3">
+            <div class="form-group field-documentsearch-title">
+<label class="control-label" for="documentsearch-title">Заголовок</label>
+<input type="text" id="documentsearch-title" class="form-control" name="DocumentSearch[title]">
+
+<div class="help-block"></div>
+</div>        </div>
+        <div class="col-lg-7">
+            <div class="form-group field-documentsearch-tagvalues">
+<label class="control-label" for="documentsearch-tagvalues">Теги</label>
+<span id="parent-s2-togall-documentsearch-tagvalues" style="display:none"><span id="s2-togall-documentsearch-tagvalues" class="s2-togall-button s2-togall-select"><span class="s2-select-label"><i class="glyphicon glyphicon-unchecked"></i>Выбрать все</span><span class="s2-unselect-label"><i class="glyphicon glyphicon-check"></i>Отменить выбор</span></span></span><div class="kv-plugin-loading loading-documentsearch-tagvalues">&nbsp;</div><input type="hidden" name="DocumentSearch[tagValues]" value=""><select id="documentsearch-tagvalues" class="form-control" name="DocumentSearch[tagValues][]" multiple size="4" data-s2-options="s2options_c4acac00" data-krajee-select2="select2_62afa624" style="width: 1px; height: 1px; visibility: hidden;">
+<option value="НСИ">НСИ</option>
+<option value="Материалы комиссии">Материалы комиссии</option>
+<option value="Защита прав застрахованных">Защита прав застрахованных</option>
+<option value="НСЗ">НСЗ</option>
+<option value="Противодействие коррупции">Противодействие коррупции</option>
+<option value="В помощь эксперту">В помощь эксперту</option>
+<option value="КТ МРТ">КТ МРТ</option>
+<option value="МКБ с запрещенными диагнозами">МКБ с запрещенными диагнозами</option>
+<option value="Перечень медицинских мероприятий">Перечень медицинских мероприятий</option>
+<option value="Классификаторы">Классификаторы</option>
+<option value="Совместимость вида МП">Совместимость вида МП</option>
+<option value="профиля и специальности">профиля и специальности</option>
+<option value="Справочник возрастных групп">Справочник возрастных групп</option>
+<option value="Справочник мест обслуживания пациентов">Справочник мест обслуживания пациентов</option>
+<option value="Справочник профилей и специальностей">Справочник профилей и специальностей</option>
+<option value="Справочник СМО">Справочник СМО</option>
+<option value="Справочник целей обращения">Справочник целей обращения</option>
+<option value="ФЛК">ФЛК</option>
+<option value="F001">F001</option>
+<option value="Справочник СМО РФ">Справочник СМО РФ</option>
+<option value="Справочник Территориальных фондов">Справочник Территориальных фондов</option>
+<option value="F002">F002</option>
+<option value="F003">F003</option>
+<option value="Справочник МО РФ">Справочник МО РФ</option>
+<option value="F005">F005</option>
+<option value="Классификатор пола застрахованного">Классификатор пола застрахованного</option>
+<option value="F006">F006</option>
+<option value="Классификатор условий оказания МП">Классификатор условий оказания МП</option>
+<option value="F007">F007</option>
+<option value="Номенклатура МО">Номенклатура МО</option>
+<option value="F008">F008</option>
+<option value="Классификатор видов МП">Классификатор видов МП</option>
+<option value="F009">F009</option>
+<option value="Классификатор результатов обращения за МП">Классификатор результатов обращения за МП</option>
+<option value="F010">F010</option>
+<option value="Классификатор способов оплаты МП">Классификатор способов оплаты МП</option>
+<option value="F011">F011</option>
+<option value="Классификатор типов документов удостоверяющих личность">Классификатор типов документов удостоверяющих личность</option>
+<option value="F012">F012</option>
+<option value="Справочник ошибок ФЛК">Справочник ошибок ФЛК</option>
+<option value="Диспансеризация">Диспансеризация</option>
+<option value="Профилактические мероприятия">Профилактические мероприятия</option>
+<option value="dbf">dbf</option>
+<option value="F013">F013</option>
+<option value="Реестр пунктов выдачи полисов">Реестр пунктов выдачи полисов</option>
+<option value="F014">F014</option>
+<option value="Классификатор причин отказа в оплате МП">Классификатор причин отказа в оплате МП</option>
+<option value="F015">F015</option>
+<option value="Классификатор федеральных округов">Классификатор федеральных округов</option>
+<option value="МО89">МО89</option>
+<option value="Справочник МО ЯНАО">Справочник МО ЯНАО</option>
+<option value="Справочник отделений МО ЯНАО">Справочник отделений МО ЯНАО</option>
+<option value="OTDMO">OTDMO</option>
+<option value="xls">xls</option>
+<option value="xml">xml</option>
+<option value="Q003">Q003</option>
+<option value="Перечень ошибок ФЛК в Реестре врачей-экспертов">Перечень ошибок ФЛК в Реестре врачей-экспертов</option>
+<option value="Q004">Q004</option>
+<option value="Перечень ошибок ФЛК в шлюзе РС в ЦС ИС ЕРЗ">Перечень ошибок ФЛК в шлюзе РС в ЦС ИС ЕРЗ</option>
+<option value="Q005">Q005</option>
+<option value="Перечень ошибок прикладной обработки в ЦС ИС ЕРЗ">Перечень ошибок прикладной обработки в ЦС ИС ЕРЗ</option>
+<option value="Q006">Q006</option>
+<option value="Перечень ошибок ФЛК в шлюзе РС ИС ВПДП">Перечень ошибок ФЛК в шлюзе РС ИС ВПДП</option>
+<option value="Q007">Q007</option>
+<option value="Перечень ошибок прикладной обработки в шлюзе РС ИС ВПДП">Перечень ошибок прикладной обработки в шлюзе РС ИС ВПДП</option>
+<option value="Q008">Q008</option>
+<option value="Перечень ошибок ФЛК в шлюзе РС ИС МТР">Перечень ошибок ФЛК в шлюзе РС ИС МТР</option>
+<option value="Материалы комиссии № 2 от 25.01.2017">Материалы комиссии № 2 от 25.01.2017</option>
+<option value="Решение комиссии">Решение комиссии</option>
+<option value="Приложение к решению комиссии">Приложение к решению комиссии</option>
+<option value="Q010">Q010</option>
+<option value="Перечень ошибок ФЛК в заголовке пакета сообщений">Перечень ошибок ФЛК в заголовке пакета сообщений</option>
+<option value="Q011">Q011</option>
+<option value="Перечень ошибок ФЛК в заголовке сообщения">Перечень ошибок ФЛК в заголовке сообщения</option>
+<option value="Q012">Q012</option>
+<option value="Перечень ошибок ФЛК в конце пакета сообщений">Перечень ошибок ФЛК в конце пакета сообщений</option>
+<option value="Q013">Q013</option>
+<option value="Перечень ошибок ФЛК в ИС PC ЕРЗ">Перечень ошибок ФЛК в ИС PC ЕРЗ</option>
+<option value="Q014">Q014</option>
+<option value="Перечень ошибок прикладной обработки в ИС PC ЕРЗ">Перечень ошибок прикладной обработки в ИС PC ЕРЗ</option>
+<option value="Методические рекомендации">Методические рекомендации</option>
+<option value="Материалы комиссии № 1 от 13.01.2017">Материалы комиссии № 1 от 13.01.2017</option>
+<option value="План проверок">План проверок</option>
+<option value="Классификатор по округам">Классификатор по округам</option>
+<option value="Тип протокола">Тип протокола</option>
+<option value="запрашиваемого в ЦС ЕРЗ">запрашиваемого в ЦС ЕРЗ</option>
+<option value="Q015">Q015</option>
+<option value="Q016">Q016</option>
+<option value="Перечень ФЛК в при приеме сведений об оказанной МП оплачиваемой по КСГ">Перечень ФЛК в при приеме сведений об оказанной МП оплачиваемой по КСГ</option>
+<option value="R001">R001</option>
+<option value="Классификатор причин внесения изменений в РС ЕРЗ">Классификатор причин внесения изменений в РС ЕРЗ</option>
+<option value="R002">R002</option>
+<option value="Классификатор форм изготовления полиса">Классификатор форм изготовления полиса</option>
+<option value="R003">R003</option>
+<option value="Классификатор способов подачи заявления">Классификатор способов подачи заявления</option>
+<option value="R004">R004</option>
+<option value="Классификатор результатов обработки заявки на внесения изменения в РС ЕРЗ">Классификатор результатов обработки заявки на внесения изменения в РС ЕРЗ</option>
+<option value="R005">R005</option>
+<option value="Классификатор причин аннулирования деятельности СМО">Классификатор причин аннулирования деятельности СМО</option>
+<option value="Классификатор причин приостановления деятельности СМО">Классификатор причин приостановления деятельности СМО</option>
+<option value="R006">R006</option>
+<option value="Классификатор причин приостановления деятельности МО">Классификатор причин приостановления деятельности МО</option>
+<option value="Классификатор причин исключения из реестра СМО">Классификатор причин исключения из реестра СМО</option>
+<option value="Классификатор причин исключения из реестра МО">Классификатор причин исключения из реестра МО</option>
+<option value="R007">R007</option>
+<option value="Классификатор признака подчиненности СМО">Классификатор признака подчиненности СМО</option>
+<option value="R008">R008</option>
+<option value="Классификатор признака подчиненности МО">Классификатор признака подчиненности МО</option>
+<option value="R009">R009</option>
+<option value="Классификатор организаций">Классификатор организаций</option>
+<option value="представляющих кандидатуру эксперта качества МП">представляющих кандидатуру эксперта качества МП</option>
+<option value="Классификатор организаций представляющих кандидатуру эксперта качества МП">Классификатор организаций представляющих кандидатуру эксперта качества МП</option>
+<option value="R010">R010</option>
+<option value="Классификатор причин исключения эксперта качества МП из территориального реестра">Классификатор причин исключения эксперта качества МП из территориального реестра</option>
+<option value="R011">R011</option>
+<option value="Классификатор квалификационных категорий">Классификатор квалификационных категорий</option>
+<option value="R012">R012</option>
+<option value="Классификатор ученых степеней">Классификатор ученых степеней</option>
+<option value="R013">R013</option>
+<option value="Классификатор главных внештатных специалистов">Классификатор главных внештатных специалистов</option>
+<option value="Справочник наименования зубов">Справочник наименования зубов</option>
+<option value="V001">V001</option>
+<option value="Номенклатура работ и услуг в здравоохранении">Номенклатура работ и услуг в здравоохранении</option>
+<option value="V002">V002</option>
+<option value="Классификатор профилей оказанной МП">Классификатор профилей оказанной МП</option>
+<option value="V003">V003</option>
+<option value="Классификатор работ (услуг) при лицензировании МП">Классификатор работ (услуг) при лицензировании МП</option>
+<option value="Территориальная программа гос. гарантий">Территориальная программа гос. гарантий</option>
+<option value="V018">V018</option>
+<option value="Классификатор видов высокотехнологичной МП">Классификатор видов высокотехнологичной МП</option>
+<option value="V019">V019</option>
+<option value="Классификатор методов высокотехнологичной МП">Классификатор методов высокотехнологичной МП</option>
+<option value="V020">V020</option>
+<option value="Классификатор профиля койки">Классификатор профиля койки</option>
+<option value="Порядок информационного взаимодействия">Порядок информационного взаимодействия</option>
+<option value="Порядок информационного взаимодействия №26-о/111">Порядок информационного взаимодействия №26-о/111</option>
+<option value="Регистр прикрепленного населения">Регистр прикрепленного населения</option>
+<option value="Формат сверки базы СМО с РС ЕРЗ">Формат сверки базы СМО с РС ЕРЗ</option>
+<option value="Результаты экспертизы">Результаты экспертизы</option>
+<option value="Структура реестров">Структура реестров</option>
+<option value="Порядок информационного взаимодействия №258">Порядок информационного взаимодействия №258</option>
+<option value="*.doc">*.doc</option>
+<option value="V013">V013</option>
+<option value="Классификатор категорий застрахованного лица">Классификатор категорий застрахованного лица</option>
+<option value="Форма 14-Ф">Форма 14-Ф</option>
+<option value="V004">V004</option>
+<option value="Классификатор медицинских специальностей">Классификатор медицинских специальностей</option>
+<option value="V005">V005</option>
+<option value="Форма 14-МЕД">Форма 14-МЕД</option>
+<option value="Бланк СКФ">Бланк СКФ</option>
+<option value="Шаблон 14-Мед">Шаблон 14-Мед</option>
+<option value="V006">V006</option>
+<option value="V008">V008</option>
+<option value="V009">V009</option>
+<option value="V010">V010</option>
+<option value="V012">V012</option>
+<option value="Классификатор исходов заболевания">Классификатор исходов заболевания</option>
+<option value="V014">V014</option>
+<option value="Классификатор форм оказания МП">Классификатор форм оказания МП</option>
+<option value="V015">V015</option>
+<option value="V016">V016</option>
+<option value="Классификатор типов диспансеризации">Классификатор типов диспансеризации</option>
+<option value="V017">V017</option>
+<option value="Классификатор результатов диспансеризации">Классификатор результатов диспансеризации</option>
+<option value="Стандарты медицинской помощи">Стандарты медицинской помощи</option>
+<option value="Графики проведения экспертиз СМО">Графики проведения экспертиз СМО</option>
+<option value="КСГ">КСГ</option>
+<option value="ДС">ДС</option>
+<option value="КС">КС</option>
+<option value="Порядок информационного взаимодействия №166-о/68-П">Порядок информационного взаимодействия №166-о/68-П</option>
+<option value="Базовая программа гос.гарантий">Базовая программа гос.гарантий</option>
+<option value="Программа гос. гарантий">Программа гос. гарантий</option>
+<option value="Материалы комиссии № 15 от 30.12.2016">Материалы комиссии № 15 от 30.12.2016</option>
+<option value="Материалы комиссии № 3 от 27.03.2017">Материалы комиссии № 3 от 27.03.2017</option>
+<option value="Классификатор статусов оплаты услуги">Классификатор статусов оплаты услуги</option>
+<option value="Классификатор видов контроля">Классификатор видов контроля</option>
+<option value="Классификатор ведомственной принадлежности МО">Классификатор ведомственной принадлежности МО</option>
+<option value="Классификатор типов документов подтверждающих факт страхования по ОМС">Классификатор типов документов подтверждающих факт страхования по ОМС</option>
+<option value="Классификатор статуса застрахованного лица">Классификатор статуса застрахованного лица</option>
+<option value="Классификатор субъектов Российской Федерации">Классификатор субъектов Российской Федерации</option>
+<option value="Уведомление об осуществлении деятельности в сфере ОМС">Уведомление об осуществлении деятельности в сфере ОМС</option>
+<option value="Отчет по реализации ТПГГ">Отчет по реализации ТПГГ</option>
+<option value="Материалы комиссии № 4 от 24.04.2017">Материалы комиссии № 4 от 24.04.2017</option>
+<option value="Тарифное соглашение 2017">Тарифное соглашение 2017</option>
+<option value="Тарифное соглашение">Тарифное соглашение</option>
+<option value="Материалы комиссии № 5 от 15.05.2017">Материалы комиссии № 5 от 15.05.2017</option>
+<option value="Дополнительное соглашение">Дополнительное соглашение</option>
+<option value="Нормативные документы">Нормативные документы</option>
+<option value="Планирование заданий МО">Планирование заданий МО</option>
+<option value="Регламент">Регламент</option>
+<option value="Материалы комиссии № 7 от 31.07.2017">Материалы комиссии № 7 от 31.07.2017</option>
+<option value="Приложение">Приложение</option>
+<option value="Материалы комиссии № 8 от 08.08.2017">Материалы комиссии № 8 от 08.08.2017</option>
+<option value="Порядок информационного взаимодействия от 27.09.2017 года № 807-о/357-П">Порядок информационного взаимодействия от 27.09.2017 года № 807-о/357-П</option>
+<option value="Приказ">Приказ</option>
+<option value="Материалы комиссии № 9 от 28.09.2017">Материалы комиссии № 9 от 28.09.2017</option>
+<option value="Материалы комиссии от 27.10.2017 №10">Материалы комиссии от 27.10.2017 №10</option>
+<option value="V021">V021</option>
+<option value="V022">V022</option>
+<option value="Классификатор моделей пациента при оказании ВМП">Классификатор моделей пациента при оказании ВМП</option>
+<option value="Справочник Территориальных фондов ОМС">Справочник Территориальных фондов ОМС</option>
+<option value="М001">М001</option>
+<option value="МКБ-10">МКБ-10</option>
+<option value="Cправочник соответствия">Cправочник соответствия</option>
+<option value="Справочник профилей и специальностей">Справочник профилей и специальностей</option>
+<option value="Справочник целей обращения">Справочник целей обращения</option>
+<option value="правочник СМО РФ">правочник СМО РФ</option>
+<option value="Классификатор результатов обращения за медицинской помощью">Классификатор результатов обращения за медицинской помощью</option>
+<option value="Материалы комиссии № 1 от 29.01.2018">Материалы комиссии № 1 от 29.01.2018</option>
+<option value="SPDENTAL">SPDENTAL</option>
+<option value="Материалы комиссии № 3 от 22.03.2018">Материалы комиссии № 3 от 22.03.2018</option>
+<option value="V025">V025</option>
+<option value="V025 Классификатор целей посещения">V025 Классификатор целей посещения</option>
+<option value="Классификатор целей посещения">Классификатор целей посещения</option>
+<option value="Удостоверяющий центр">Удостоверяющий центр</option>
+<option value="Классификатор дополнительных классификационных критериев">Классификатор дополнительных классификационных критериев</option>
+<option value="V024">V024</option>
+<option value="Плановое задание">Плановое задание</option>
+<option value="Внутренний документ">Внутренний документ</option>
+<option value="N001">N001</option>
+<option value="Классификатор противопоказаний и отказов">Классификатор противопоказаний и отказов</option>
+<option value="N002">N002</option>
+<option value="Классификатор стадий">Классификатор стадий</option>
+<option value="N003">N003</option>
+<option value="Классификатор Tumor">Классификатор Tumor</option>
+<option value="N004">N004</option>
+<option value="Классификатор Nodus">Классификатор Nodus</option>
+<option value="N005">N005</option>
+<option value="Классификатор Metastasis">Классификатор Metastasis</option>
+<option value="N006">N006</option>
+<option value="Справочник соответствия стадий TNM">Справочник соответствия стадий TNM</option>
+<option value="N007">N007</option>
+<option value="Классификатор гистологии">Классификатор гистологии</option>
+<option value="N008">N008</option>
+<option value="Классификатор результатов гистологии">Классификатор результатов гистологии</option>
+<option value="N009">N009</option>
+<option value="Классификатор соответствия гистологии диагнозам">Классификатор соответствия гистологии диагнозам</option>
+<option value="Проект">Проект</option>
+<option value="N010">N010</option>
+<option value="Классификатор маркёров">Классификатор маркёров</option>
+<option value="N011">N011</option>
+<option value="Классификатор значений маркёров">Классификатор значений маркёров</option>
+<option value="N012">N012</option>
+<option value="Классификатор соответствия маркёров диагнозам">Классификатор соответствия маркёров диагнозам</option>
+<option value="N013">N013</option>
+<option value="Классификатор типов лечения">Классификатор типов лечения</option>
+<option value="N014">N014</option>
+<option value="Классификатор типов хирургического лечения">Классификатор типов хирургического лечения</option>
+<option value="N015">N015</option>
+<option value="Классификатор линий лекарственной терапии">Классификатор линий лекарственной терапии</option>
+<option value="N016">N016</option>
+<option value="Классификатор циклов лекарственной терапии">Классификатор циклов лекарственной терапии</option>
+<option value="N017">N017</option>
+<option value="Классификатор типов лучевой терапии">Классификатор типов лучевой терапии</option>
+<option value="Порядок информационного взаимодействия №365-о/138 от 17.04.2018">Порядок информационного взаимодействия №365-о/138 от 17.04.2018</option>
+<option value="Классификатор клинико-профильных групп">Классификатор клинико-профильных групп</option>
+<option value="Классификатор клинико-статистические группы">Классификатор клинико-статистические группы</option>
+<option value="Справочник соответствия профилей и специальности">Справочник соответствия профилей и специальности</option>
+<option value="Материалы комиссии № 5 от 15.05.2018">Материалы комиссии № 5 от 15.05.2018</option>
+<option value="Классификатор типов документов">Классификатор типов документов</option>
+<option value="подтверждающих факт страхования по ОМС">подтверждающих факт страхования по ОМС</option>
+<option value="Справочник базовой ставки">Справочник базовой ставки</option>
+<option value="K003">K003</option>
+<option value="OTDMO Справочник отделений МО ЯНАО">OTDMO Справочник отделений МО ЯНАО</option>
+<option value="Классификатор условий оказания медицинской помощи">Классификатор условий оказания медицинской помощи</option>
+<option value="Классификатор видов медицинской помощи">Классификатор видов медицинской помощи</option>
+<option value="Классификатор способов оплаты медицинской помощи">Классификатор способов оплаты медицинской помощи</option>
+<option value="Классификатор форм оказания медицинской помощи">Классификатор форм оказания медицинской помощи</option>
+<option value="V023">V023</option>
+<option value="V026">V026</option>
+<option value="шаблон для отчета по заработной плате">шаблон для отчета по заработной плате</option>
+<option value="Материалы комиссии № 10 от 24.10.2018">Материалы комиссии № 10 от 24.10.2018</option>
+<option value="Решение">Решение</option>
+<option value="Материалы комиссии № 11 от 09.11.2018">Материалы комиссии № 11 от 09.11.2018</option>
+<option value="ЦЭККМП">ЦЭККМП</option>
+<option value="Порядок информационного взаимодействия №451/979-о">Порядок информационного взаимодействия №451/979-о</option>
+<option value="Материалы комиссии № 12 от 07.12.2018">Материалы комиссии № 12 от 07.12.2018</option>
+<option value="ВМП">ВМП</option>
+<option value="Материалы комиссии № 1 от 31.01.2019">Материалы комиссии № 1 от 31.01.2019</option>
+<option value="справочник">справочник</option>
+<option value="Материалы комиссии № 3 от 25.03.2019">Материалы комиссии № 3 от 25.03.2019</option>
+<option value="решение Координационного совета">решение Координационного совета</option>
+<option value="Региональные справочники">Региональные справочники</option>
+<option value="Материалы Комиссии от 02.07.2019 № 7">Материалы Комиссии от 02.07.2019 № 7</option>
+<option value="Материалы комиссии от 28.06.2019 № 6">Материалы комиссии от 28.06.2019 № 6</option>
+<option value="НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</option>
+<option value="Регламент взаимодействи ТФОМС ЯНАО и СМО">Регламент взаимодействи ТФОМС ЯНАО и СМО</option>
+<option value="Изменение ТПОМС ЯНАО">Изменение ТПОМС ЯНАО</option>
+<option value="документы">документы</option>
+<option value="Показатели деятельности ТФОМС ЯНАО">Показатели деятельности ТФОМС ЯНАО</option>
+<option value="диспансернное наблюдение">диспансернное наблюдение</option>
+<option value="ИСЗЛ">ИСЗЛ</option>
+</select>
+
+<div class="help-block"></div>
+</div>        </div>
+        <div class="col-lg-2">
+            <div class="form-group pull-right" style="padding-top: 25px;">
+                <button type="submit" class="btn btn-primary">Поиск</button>                            </div>
+        </div>
+    </div>
+    </form>
+</div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="container">
+            <div class="col-lg-12 alert alert-danger">
+                <b>Актуальные федеральные справочники НСИ доступны на сайте ФФОМС</b>
+                <a href="http://nsi.ffoms.ru">http://nsi.ffoms.ru</a>
+                <b>, а также на сайте Министерства здравоохранения Российской Федерации</b>
+                <a href="https://nsi.rosminzdrav.ru/#!/news">https://nsi.rosminzdrav.ru/#!/news</a>            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12">
+
+
+            <div id="w1" class="grid-view"><div class="summary">Показаны записи <b>1-100</b> из <b>1,103</b>.</div>
+<table class="table table-striped table-bordered"><colgroup><col style="width:25%;">
+<col style="width:5%;">
+<col style="width:15%;">
+<col style="width:5%;">
+<col style="width:5%;">
+<col style="width:5%;"></colgroup>
+<thead>
+<tr><th><a href="/document/document/index?sort=title" data-sort="title">Заголовок</a></th><th><a href="/document/document/index?sort=type_id" data-sort="type_id">Тип</a></th><th>Теги</th><th><a href="/document/document/index?sort=accepted_org_id" data-sort="accepted_org_id">Принявший орган</a></th><th><a href="/document/document/index?sort=date" data-sort="date">Дата принятия</a></th><th><a class="desc" href="/document/document/index?sort=date_public" data-sort="date_public">Дата публикации</a></th></tr>
+</thead>
+<tbody>
+<tr data-key="1459"><td><a href="/document/document/view/1459">Решение комиссии по разработке территориальной программы ОМС ЯНАО от 04.09.2023 № 11</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.09.2023</td><td>06.09.2023</td></tr>
+<tr data-key="1458"><td><a href="/document/document/view/1458">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 04.09.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.09.2023</td><td>06.09.2023</td></tr>
+<tr data-key="1457"><td><a href="/document/document/view/1457">План мероприятий от 05.09.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>05.09.2023</td><td>05.09.2023</td></tr>
+<tr data-key="1456"><td><a href="/document/document/view/1456">Решение заседания Координационного совета №7</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>11.08.2023</td><td>11.08.2023</td></tr>
+<tr data-key="1454"><td><a href="/document/document/view/1454">Решение комиссии по разработке территориальной программы ОМС ЯНАО от 04.08.2023 № 10</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.08.2023</td><td>04.08.2023</td></tr>
+<tr data-key="1453"><td><a href="/document/document/view/1453">Об утверждении регламента реализации полномочий администратора доходов бюджета Территориал...</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.08.2023</td><td>03.08.2023</td></tr>
+<tr data-key="1452"><td><a href="/document/document/view/1452">Приказ от 03.08.2023 №376</a> </td><td>Приказ</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Приказ">Приказ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.08.2023</td><td>03.08.2023</td></tr>
+<tr data-key="1451"><td><a href="/document/document/view/1451">Протокол Общественного обсуждения от 03.08.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.08.2023</td><td>03.08.2023</td></tr>
+<tr data-key="1455"><td><a href="/document/document/view/1455">Решение заседания Координационного совета от 31 июля 2023 года №7</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.07.2023</td><td>31.07.2023</td></tr>
+<tr data-key="1450"><td><a href="/document/document/view/1450">RQ022 Перечень автоматизированных проверок ФЛК v 23.4</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.07.2023</td><td>31.07.2023</td></tr>
+<tr data-key="1449"><td><a href="/document/document/view/1449">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.07.2023</td><td>31.07.2023</td></tr>
+<tr data-key="1448"><td><a href="/document/document/view/1448">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 27.07.2023 № 9</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.07.2023</td><td>28.07.2023</td></tr>
+<tr data-key="1447"><td><a href="/document/document/view/1447">проект Приказа </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>26.07.2023</td><td>26.07.2023</td></tr>
+<tr data-key="1446"><td><a href="/document/document/view/1446">Пояснительная записка к проекту приказа</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>26.07.2023</td><td>26.07.2023</td></tr>
+<tr data-key="1445"><td><a href="/document/document/view/1445">RS012 Справочник отдельных диагностических услуг v. 23.5</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>18.07.2023</td></tr>
+<tr data-key="1443"><td><a href="/document/document/view/1443">RS014 Справочник структурных подразделений ГИС ОМС v. 23.05</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.01.2022</td><td>13.07.2023</td></tr>
+<tr data-key="1444"><td><a href="/document/document/view/1444">Решение КС № 6 от 30.06.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.06.2023</td><td>11.07.2023</td></tr>
+<tr data-key="1442"><td><a href="/document/document/view/1442">RS012 Справочник отдельных диагностических услуг v. 23.4</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>11.07.2023</td></tr>
+<tr data-key="1440"><td><a href="/document/document/view/1440">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.06.2023</td><td>30.06.2023</td></tr>
+<tr data-key="1439"><td><a href="/document/document/view/1439">RQ022 Перечень автоматизированных проверок ФЛК v 23.3</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.06.2023</td><td>30.06.2023</td></tr>
+<tr data-key="1438"><td><a href="/document/document/view/1438">План мероприятий от 29.06.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>29.06.2023</td><td>29.06.2023</td></tr>
+<tr data-key="1437"><td><a href="/document/document/view/1437">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 22.06.2023 № 8</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.06.2023</td><td>26.06.2023</td></tr>
+<tr data-key="1436"><td><a href="/document/document/view/1436">RS006 (Справочник соответствия цели посещения и результата) v.23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>15.06.2023</td></tr>
+<tr data-key="1434"><td><a href="/document/document/view/1434">Решение Координационного совета 5 от 31.05.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.05.2023</td><td>07.06.2023</td></tr>
+<tr data-key="1435"><td><a href="/document/document/view/1435">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 02.06.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>02.06.2023</td><td>06.06.2023</td></tr>
+<tr data-key="1433"><td><a href="/document/document/view/1433">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 02.06.2023 № 7</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>02.06.2023</td><td>06.06.2023</td></tr>
+<tr data-key="1432"><td><a href="/document/document/view/1432">Приказ от 30.05.2023 №254</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Приказ">Приказ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.05.2023</td><td>30.05.2023</td></tr>
+<tr data-key="1431"><td><a href="/document/document/view/1431">ПРОТОКОЛ Общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.05.2023</td><td>30.05.2023</td></tr>
+<tr data-key="1430"><td><a href="/document/document/view/1430">Презентации СС _Репродуктивное здоровье населения ЯНАО</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>24.05.2023</td><td>24.05.2023</td></tr>
+<tr data-key="1429"><td><a href="/document/document/view/1429">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>23.05.2023</td></tr>
+<tr data-key="1428"><td><a href="/document/document/view/1428">ПРОЕКТ приказа №  от ..2023.</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.05.2023</td><td>22.05.2023</td></tr>
+<tr data-key="1427"><td><a href="/document/document/view/1427">Пояснительная записка к проекту приказа</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.05.2023</td><td>22.05.2023</td></tr>
+<tr data-key="1426"><td><a href="/document/document/view/1426">План проверок 2023 Заполярье</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.05.2023</td><td>17.05.2023</td></tr>
+<tr data-key="1425"><td><a href="/document/document/view/1425">План проверок 2023 МСК НУ </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.05.2023</td><td>17.05.2023</td></tr>
+<tr data-key="1424"><td><a href="/document/document/view/1424">План проверок 2023г. СОГАЗ</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.05.2023</td><td>17.05.2023</td></tr>
+<tr data-key="1423"><td><a href="/document/document/view/1423">Решение Координационного совета 4 от 28.04.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.04.2023</td><td>10.05.2023</td></tr>
+<tr data-key="1421"><td><a href="/document/document/view/1421">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 04.05.2023 № 6</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>04.05.2023</td><td>05.05.2023</td></tr>
+<tr data-key="1422"><td><a href="/document/document/view/1422">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.04.2023</td><td>30.04.2023</td></tr>
+<tr data-key="1419"><td><a href="/document/document/view/1419">Решение Координационного совета от 31.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.03.2023</td><td>11.04.2023</td></tr>
+<tr data-key="1418"><td><a href="/document/document/view/1418">Материалы Комиссии по разработке территориальной программы ОМС ЯНАО от 07.04.2023 № 5</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.04.2023</td><td>10.04.2023</td></tr>
+<tr data-key="1417"><td><a href="/document/document/view/1417">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 07.04.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.04.2023</td><td>10.04.2023</td></tr>
+<tr data-key="1416"><td><a href="/document/document/view/1416">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.03.2023</td><td>31.03.2023</td></tr>
+<tr data-key="1415"><td><a href="/document/document/view/1415">RS014 Справочник структурных подразделений ГИС ОМС v. 23.04</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>31.03.2023</td></tr>
+<tr data-key="1414"><td><a href="/document/document/view/1414">RQ022 Перечень автоматизированных проверок ФЛК v 23.2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.03.2023</td><td>31.03.2023</td></tr>
+<tr data-key="1413"><td><a href="/document/document/view/1413">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.03.2023</td><td>27.03.2023</td></tr>
+<tr data-key="1412"><td><a href="/document/document/view/1412">План мероприятий от 21.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>21.03.2023</td><td>22.03.2023</td></tr>
+<tr data-key="1420"><td><a href="/document/document/view/1420">Информация, согласно приложению к Постановлению Правительства Ямало-Ненецкого автономного...</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>16.03.2023</td><td>16.03.2023</td></tr>
+<tr data-key="1410"><td><a href="/document/document/view/1410">Материалы Комиссии  по разработке территориальной программы ОМС ЯНАО от 14.03.2023 № 4</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>14.03.2023</td><td>14.03.2023</td></tr>
+<tr data-key="1409"><td><a href="/document/document/view/1409">Решение Координационного совета от 28.02.2023 № 2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=решение Координационного совета">решение Координационного совета</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.02.2023</td><td>14.03.2023</td></tr>
+<tr data-key="1408"><td><a href="/document/document/view/1408">Приказ ДЗ и ТФОМС от 23.01.2023 №41-о-а_18 по ИСЗЛ</a> </td><td>Приказ</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Диспансеризация">Диспансеризация</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Регламент">Регламент</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=диспансернное наблюдение">диспансернное наблюдение</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=ИСЗЛ">ИСЗЛ</a></td><td>Совместный</td><td>23.01.2023</td><td>14.03.2023</td></tr>
+<tr data-key="1406"><td><a href="/document/document/view/1406">RS012 Справочник отдельных диагностических услуг v. 23.3</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>13.03.2023</td></tr>
+<tr data-key="1404"><td><a href="/document/document/view/1404">ТАРИФНОЕ СОГЛАШЕНИЕ 2023 в действ.ред. с изменениями 03.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.03.2023</td><td>07.03.2023</td></tr>
+<tr data-key="1402"><td><a href="/document/document/view/1402">Приказ №59 от 07.03.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.03.2023</td><td>07.03.2023</td></tr>
+<tr data-key="1401"><td><a href="/document/document/view/1401">ПРОТОКОЛ Общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.03.2023</td><td>07.03.2023</td></tr>
+<tr data-key="1403"><td><a href="/document/document/view/1403">Решение Комиссии по разработке территориальной программы ОМС ЯНАО от 03.03.2023 № 3</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Решение комиссии">Решение комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>03.03.2023</td><td>06.03.2023</td></tr>
+<tr data-key="1405"><td><a href="/document/document/view/1405">RS012 Справочник отдельных диагностических услуг v. 23.2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.03.2023</td><td>01.03.2023</td></tr>
+<tr data-key="1400"><td><a href="/document/document/view/1400">RQ022 Перечень автоматизированных проверок ФЛК v 23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.02.2023</td><td>28.02.2023</td></tr>
+<tr data-key="1399"><td><a href="/document/document/view/1399">Проект приказа о внесении изменений в Порядок определения нормативных затрат на обеспечени...</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.02.2023</td><td>27.02.2023</td></tr>
+<tr data-key="1398"><td><a href="/document/document/view/1398">Порядок информационного взаимодействия на 2023 год</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Порядок информационного взаимодействия">Порядок информационного взаимодействия</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.02.2023</td><td>20.02.2023</td></tr>
+<tr data-key="1397"><td><a href="/document/document/view/1397">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>20.02.2023</td></tr>
+<tr data-key="1394"><td><a href="/document/document/view/1394">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>13.02.2023</td></tr>
+<tr data-key="1393"><td><a href="/document/document/view/1393">Регламент предоставления реестров 2023 г</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Регламент">Регламент</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Приказ">Приказ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>07.02.2023</td><td>09.02.2023</td></tr>
+<tr data-key="1392"><td><a href="/document/document/view/1392">решение Координационного совета 1 от 30.01.2023</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.01.2023</td><td>09.02.2023</td></tr>
+<tr data-key="1391"><td><a href="/document/document/view/1391">RS005 Справочник соответствия кода услуг специальности для посещений в АПП v. 23.02</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>09.02.2023</td></tr>
+<tr data-key="1390"><td><a href="/document/document/view/1390">RS005 Справочник соответствия кода услуг специальности для посещений в АПП v. 23.01</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>06.02.2023</td></tr>
+<tr data-key="1389"><td><a href="/document/document/view/1389">Регламент взаимодействия между ТФОМС ЯНАО и СМО с 10.01.2023-64242931ddb3e</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Регламент взаимодействи ТФОМС ЯНАО и СМО">Регламент взаимодействи ТФОМС ЯНАО и СМО</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>10.01.2023</td><td>03.02.2023</td></tr>
+<tr data-key="1388"><td><a href="/document/document/view/1388">RS014 Справочник структурных подразделений ГИС ОМС v. 23.03</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>02.02.2023</td></tr>
+<tr data-key="1396"><td><a href="/document/document/view/1396">Приказ от 01.02.2023 №22</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.02.2023</td><td>01.02.2023</td></tr>
+<tr data-key="1395"><td><a href="/document/document/view/1395">ПРОТОКОЛ Общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.02.2023</td><td>01.02.2023</td></tr>
+<tr data-key="1387"><td><a href="/document/document/view/1387">RS014 Справочник структурных подразделений ГИС ОМС v. 23.02</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>31.01.2023</td></tr>
+<tr data-key="1386"><td><a href="/document/document/view/1386">RS007 Cправочник соответствия группы ВМП и профиля на 2023 v23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>31.01.2023</td></tr>
+<tr data-key="1385"><td><a href="/document/document/view/1385">RS012 Справочник отдельных диагностических услуг v. 23.1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>30.01.2023</td></tr>
+<tr data-key="1384"><td><a href="/document/document/view/1384">Решение Комиссии по разработке территориальной программы ОМС ЯНАО от 27.01.2023 № 2</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Решение комиссии">Решение комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.01.2023</td><td>30.01.2023</td></tr>
+<tr data-key="1383"><td><a href="/document/document/view/1383">Тарифное соглашение в системе ОМС ЯНАО от 27.01.2023 </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.01.2023</td><td>30.01.2023</td></tr>
+<tr data-key="1382"><td><a href="/document/document/view/1382">Проект приказа о внесении изменений в мормативные затраты</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>24.01.2023</td><td>24.01.2023</td></tr>
+<tr data-key="1381"><td><a href="/document/document/view/1381">Материалы Комиссии от 19.01.2023 № 1</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>19.01.2023</td><td>20.01.2023</td></tr>
+<tr data-key="1380"><td><a href="/document/document/view/1380">RS014 Справочник структурных подразделений ГИС ОМС v. 23.01</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.12.2021</td><td>20.01.2023</td></tr>
+<tr data-key="1379"><td><a href="/document/document/view/1379">RQ022 Перечень автоматизированных проверок ФЛК v 23.0</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>20.01.2023</td><td>20.01.2023</td></tr>
+<tr data-key="1378"><td><a href="/document/document/view/1378">Расшифровщики КСГ 2023 год</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=КСГ">КСГ</a></td><td>Федеральный фонд обязательного медицинского страхования</td><td>01.01.2023</td><td>18.01.2023</td></tr>
+<tr data-key="1377"><td><a href="/document/document/view/1377">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>18.01.2023</td></tr>
+<tr data-key="1441"><td><a href="/document/document/view/1441">Основные положения учетной политики на 2023 год</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>28.12.2022</td><td>29.12.2022</td></tr>
+<tr data-key="1376"><td><a href="/document/document/view/1376">RS008 (Совместимость вида МП, профиля и специальности) v.22.04</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>28.12.2022</td></tr>
+<tr data-key="1375"><td><a href="/document/document/view/1375">Решение КС № 12 от 21.12.2022</a> </td><td>Другой</td><td></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>21.12.2022</td><td>26.12.2022</td></tr>
+<tr data-key="1374"><td><a href="/document/document/view/1374">Протокол общественного обсуждения</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.12.2022</td><td>23.12.2022</td></tr>
+<tr data-key="1373"><td><a href="/document/document/view/1373">Приказ от 22.12.2022 №425</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НОРМАТИВНЫЕ ЗАТРАТЫ">НОРМАТИВНЫЕ ЗАТРАТЫ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>22.12.2022</td><td>23.12.2022</td></tr>
+<tr data-key="1371"><td><a href="/document/document/view/1371">Материалы Комиссии № 17 от 19.12.2022 г.</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>19.12.2022</td><td>20.12.2022</td></tr>
+<tr data-key="1370"><td><a href="/document/document/view/1370">Решение Координационного совета №11 от 30.11.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.11.2022</td><td>08.12.2022</td></tr>
+<tr data-key="1369"><td><a href="/document/document/view/1369">Материалы Комиссии №16 от 30.11.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.11.2022</td><td>01.12.2022</td></tr>
+<tr data-key="1368"><td><a href="/document/document/view/1368">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>24.11.2022</td><td>25.11.2022</td></tr>
+<tr data-key="1367"><td><a href="/document/document/view/1367">ТАРИФНОЕ СОГЛАШЕНИЕ 2022 в действ.ред. с изменениями  от 17.11.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.11.2022</td><td>18.11.2022</td></tr>
+<tr data-key="1366"><td><a href="/document/document/view/1366">Решение комиссии по разработке ТП ОМС ЯНАО №15 от 17_11_2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.11.2022</td><td>18.11.2022</td></tr>
+<tr data-key="1364"><td><a href="/document/document/view/1364">Материалы комиссии от 31.10.2022 № 14</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>31.10.2022</td><td>02.11.2022</td></tr>
+<tr data-key="1363"><td><a href="/document/document/view/1363">Решение Координационного совета от 17.10.2022 № 10</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>17.10.2022</td><td>26.10.2022</td></tr>
+<tr data-key="1362"><td><a href="/document/document/view/1362">RQ022 Перечень автоматизированных проверок ФЛК v 22.9</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>25.10.2022</td><td>25.10.2022</td></tr>
+<tr data-key="1360"><td><a href="/document/document/view/1360">Решение Координационного совета 9 от 30.09.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=В помощь эксперту">В помощь эксперту</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.09.2022</td><td>08.10.2022</td></tr>
+<tr data-key="1358"><td><a href="/document/document/view/1358">RS010 (МКБ с запрещенными диагнозами, в т.ч. скорая ) v.21.6 </a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Региональные справочники">Региональные справочники</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.04.2019</td><td>04.10.2022</td></tr>
+<tr data-key="1359"><td><a href="/document/document/view/1359">Решение комиссии по разработке ТП ОМС ЯНАО №13 от 30_09_2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Материалы комиссии">Материалы комиссии</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.09.2022</td><td>04.10.2022</td></tr>
+<tr data-key="1357"><td><a href="/document/document/view/1357">RS009 Справочник подразделений</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСИ">НСИ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>01.09.2022</td><td>01.10.2022</td></tr>
+<tr data-key="1365"><td><a href="/document/document/view/1365">ТАРИФНОЕ СОГЛАШЕНИЕ 2022 в действ.ред. с изменениями  от 30.09.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=Тарифное соглашение">Тарифное соглашение</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>30.09.2022</td><td>30.09.2022</td></tr>
+<tr data-key="1353"><td><a href="/document/document/view/1353">План мероприятий от 27.09.2022</a> </td><td>Другой</td><td><a class="btn btn-default btn-xs" href="index?DocumentSearch%5BtagValues%5D=НСЗ">НСЗ</a></td><td>Территориальный фонд обязательного медицинского страхования ЯНАО</td><td>27.09.2022</td><td>28.09.2022</td></tr>
+</tbody></table>
+<ul class="pagination"><li class="prev disabled"><span>&laquo;</span></li>
+<li class="active"><a href="/document/document/index?page=1&amp;per-page=100" data-page="0">1</a></li>
+<li><a href="/document/document/index?page=2&amp;per-page=100" data-page="1">2</a></li>
+<li><a href="/document/document/index?page=3&amp;per-page=100" data-page="2">3</a></li>
+<li><a href="/document/document/index?page=4&amp;per-page=100" data-page="3">4</a></li>
+<li><a href="/document/document/index?page=5&amp;per-page=100" data-page="4">5</a></li>
+<li><a href="/document/document/index?page=6&amp;per-page=100" data-page="5">6</a></li>
+<li><a href="/document/document/index?page=7&amp;per-page=100" data-page="6">7</a></li>
+<li><a href="/document/document/index?page=8&amp;per-page=100" data-page="7">8</a></li>
+<li><a href="/document/document/index?page=9&amp;per-page=100" data-page="8">9</a></li>
+<li><a href="/document/document/index?page=10&amp;per-page=100" data-page="9">10</a></li>
+<li class="next"><a href="/document/document/index?page=2&amp;per-page=100" data-page="1">&raquo;</a></li></ul></div>
+        </div>
+    </div>
+</div></div>
+</div>
+<footer id="footer">
+    <div class="container">
+        <div id="scrollup"><img alt="Прокрутить вверх" src="/images/toplink.png"></div>
+<div class="row">
+    <article class="col-md-4 text-center">
+        <h3 class="title">Контакты</h3>
+
+        <p>
+            <b>Адрес:</b> ЯНАО, г.Салехард, ул. Зои Космодемьянской, д. 59<br>
+            <b>Телефон:</b> +7 (34922) 9-90-09<br>
+            <b>Факс:</b> +7 (34922) 9-90-09 доб. 0
+        </p>
+
+        <div class="link">
+            Сайт: <a href="http://webfoms.ru">http://webfoms.ru</a><br>
+            Email: <a href="mailto:foms@webfoms.ru">foms@webfoms.ru</a>
+        </div>
+
+    </article>
+
+    <article class="col-md-4 text-center">
+        <div style="margin-bottom: 15px;">
+            <a href="/">На главную</a> | <a href="/questionanswer/questionanswer/create">Написать</a> | <a href="/site/contacts">Контакты</a></br>
+        </div>
+
+        <img src="/images/qr-code.gif" alt="">        <!--<a href="#top" class="top up">вверх</a>-->
+      <!--          <p>Данные по использованию ресурсов:</p>
+
+        <p></p>
+
+        <p></p>-->
+    </article>
+
+    <article class="col-md-4 text-center">
+        <p>Официальный сайт Территориального фонда обязательного медицинского страхования Ямало-Ненецкого автономного
+            округа</p>
+        <p>
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=24148483&amp;from=informer"
+   target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/24148483/3_0_56ACECFF_368CCCFF_0_pageviews"
+                                       style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:24148483,lang:'ru'});return false}catch(e){}" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter24148483 = new Ya.Metrika({
+                    id:24148483,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/24148483" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --> </p>
+
+
+    </article>
+
+</div>
+
+
+
+
+
+
+    </div>
+</footer>
+
+<!--[if lte IE 7]><script src="http://phpbbex.com/oldies/oldies.js" charset="utf-8"></script><![endif]-->
+<script src="/assets/c648703f/jquery.js"></script>
+<script src="/assets/9d2e6072/yii.js"></script>
+<script src="/assets/9d2e6072/yii.validation.js"></script>
+<script src="/assets/94451c7f/js/bootstrap-datepicker.min.js"></script>
+<script src="/assets/94451c7f/js/datepicker-kv.min.js"></script>
+<script src="/assets/94451c7f/js/locales/bootstrap-datepicker.ru.min.js"></script>
+<script src="/assets/7f4ffc8b/js/kv-widgets.min.js"></script>
+<script src="/assets/8bd686d2/js/select2.full.min.js"></script>
+<script src="/assets/8bd686d2/js/i18n/ru.js"></script>
+<script src="/assets/7cbee57a/js/select2-krajee.min.js"></script>
+<script src="/assets/9d2e6072/yii.activeForm.js"></script>
+<script src="/assets/9d2e6072/yii.gridView.js"></script>
+<script src="/assets/b562ff5c/js/bootstrap.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/scroll.js"></script>
+<script src="/js/script.js"></script>
+<script src="/js/statement.js"></script>
+<script src="/assets/9a11d8bf/pace.min.js"></script>
+<script src="/assets/3ab971f9/js/dropdown-x.min.js"></script>
+<script>jQuery(function ($) {
+jQuery.fn.kvDatepicker.dates={};
+jQuery&&jQuery.pjax&&(jQuery.pjax.defaults.maxCacheLength=0);
+if (jQuery('#documentsearch-date').data('kvDatepicker')) { jQuery('#documentsearch-date').kvDatepicker('destroy'); }
+jQuery('#documentsearch-date-kvdate').kvDatepicker(kvDatepicker_de751a29);
+
+initDPRemove('documentsearch-date');
+initDPAddon('documentsearch-date');
+if (jQuery('#documentsearch-date_public').data('kvDatepicker')) { jQuery('#documentsearch-date_public').kvDatepicker('destroy'); }
+jQuery('#documentsearch-date_public-kvdate').kvDatepicker(kvDatepicker_de751a29);
+
+initDPRemove('documentsearch-date_public');
+initDPAddon('documentsearch-date_public');
+if (jQuery('#documentsearch-tagvalues').data('select2')) { jQuery('#documentsearch-tagvalues').select2('destroy'); }
+jQuery.when(jQuery('#documentsearch-tagvalues').select2(select2_62afa624)).done(initS2Loading('documentsearch-tagvalues','s2options_c4acac00'));
+
+jQuery('#w0').yiiActiveForm([{"id":"documentsearch-type_id","name":"type_id","container":".field-documentsearch-type_id","input":"#documentsearch-type_id","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^[+-]?\d+$/,"message":"Значение «Тип» должно быть целым числом.","skipOnEmpty":1});}},{"id":"documentsearch-range_id","name":"range_id","container":".field-documentsearch-range_id","input":"#documentsearch-range_id","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^[+-]?\d+$/,"message":"Значение «Уровень» должно быть целым числом.","skipOnEmpty":1});}},{"id":"documentsearch-accepted_org_id","name":"accepted_org_id","container":".field-documentsearch-accepted_org_id","input":"#documentsearch-accepted_org_id","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^[+-]?\d+$/,"message":"Значение «Принявший орган» должно быть целым числом.","skipOnEmpty":1});}}], []);
+if (jQuery('#documentsearch-tagvalues').data('select2')) { jQuery('#documentsearch-tagvalues').select2('destroy'); }
+jQuery.when(jQuery('#documentsearch-tagvalues').select2(select2_47d1075f)).done(initS2Loading('documentsearch-tagvalues','s2options_c4acac00'));
+
+jQuery('#w1').yiiGridView({"filterUrl":"\/document\/document\/","filterSelector":"#w1-filters input, #w1-filters select","filterOnFocusOut":true});
+});</script></body>
+
+</html>
