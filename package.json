@@ -9,7 +9,9 @@
     "devhk": "cross-env NODE_ENV=development nodemon rhak.js",
     "starthk": "node rhak.js",
     "devya": "cross-env NODE_ENV=development nodemon yanao.js",
-    "startya": "node yanao.js"
+    "startya": "node yanao.js",
+    "devprm": "cross-env NODE_ENV=development nodemon perm.js",
+    "startprm": "node perm.js"
   },
   "keywords": [],
   "author": "",
