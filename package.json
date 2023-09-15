@@ -11,7 +11,9 @@
     "devya": "cross-env NODE_ENV=development nodemon yanao.js",
     "startya": "node yanao.js",
     "devprm": "cross-env NODE_ENV=development nodemon perm.js",
-    "startprm": "node perm.js"
+    "startprm": "node perm.js",
+    "devekb": "cross-env NODE_ENV=development nodemon ekat.js",
+    "startekb": "node ekat.js"
   },
   "keywords": [],
   "author": "",
